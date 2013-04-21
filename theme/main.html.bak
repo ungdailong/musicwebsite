@@ -1,0 +1,250 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>THT Blog's | Âm nhạc làm dịu tâm hồn | Tìm là thấy </title>
+</head>
+<script language="javascript" type="text/javascript" src="js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="js/jquery.scroll.js"></script>
+<link href="theme/css/css.css" rel="stylesheet" type="text/css" />
+<!--[if IE]>
+<style type="text/css">
+#submit
+{
+	width:58px; 
+}
+</style>
+<![endif]-->
+<!--[if lt IE 8]>
+<style type="text/css">
+#search
+{
+	margin:4px 0px 0px 0px; 
+}
+</style>
+<![endif]-->
+<!--[if IE 7]>
+<style type="text/css">
+#search
+{
+	height:15px; 
+}
+</style>
+<![endif]-->
+<!--[if IE 6]>
+<style type="text/css">
+#submit
+{
+	height:28px;
+    margin-bottom:-10px;
+}
+#box_search
+{
+	margin:4px 4px -6px 4px;
+}
+.select_t
+{
+	margin-top:-2px;
+}
+</style>
+<![endif]-->
+
+<body onLoad="loadAjax('{key.WORD}','','','')&topSong('ca-khuc-viet/chi-tiet.vn','1')&showPl()&topAlbum('album-hot','1');">
+<div id="wrapper" style="background:#ad79ad;">
+    <br />
+	<div>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="945" height="132" id="img/banner.swf" align="middle">
+	<param name="allowScriptAccess" value="sameDomain">
+	<param name="movie" value="img/banner.swf">
+	<param name="quality" value="high">
+	<param name="bgcolor" value="#ffffff">
+	<embed src="img/banner.swf" quality="high" bgcolor="#ffffff" width="945" height="132" name="img/banner.swf" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object>
+
+</div>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td>
+<div id="global-header">
+<div class="nav">
+     <ul>
+      <li><a href="http://thuongcoi.tk/blog-tht" target="_blank">THT Blog's</a></li>
+	  <li class="on"><a href="#" target="_blank">Nghe Nhạc</a></li>
+
+	  <li><a href="http://thuongcoi.tk/tv-tht" target="_blank">Xem tivi Online</a></li>
+               </ul>
+</div>
+</div>
+</td></tr>
+<tr><td class="clock" align="right">
+<div style="float:left;" id="load_result"></div>
+<script language=JavaScript>
+	var today = new Date();
+	var thisHours = today.getHours();
+	var thisMinutes = today.getMinutes();
+	var weekdayNames = ['Chủ nhật', 'Thứ hai', 'Thứ ba', 'Thứ tư', 'Thứ năm', 'Thứ sáu', 'Thứ bảy'];
+	var monthNamesR = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12'];
+	var thisDay = today.getDay();
+	var thisDate = today.getDate();
+	var currMonth = today.getMonth();
+	var currYear = today.getFullYear();
+	if(today.getMinutes() < 10) {thisMinutes = "0" + today.getMinutes()};
+	if(today.getHours() < 10) {thisHours = "0" + today.getHours()};
+	function datetime() {
+	document.write("Hôm nay là " + weekdayNames[thisDay] + ", ngày " + thisDate + " tháng " + monthNamesR[currMonth] + " năm " + currYear)
+	}
+	/*Hôm nay là " + weekdayNames[thisDay] + ", ngày " + thisDate + " tháng " + monthNamesR[currMonth] + " năm " + currYear + ". */
+</script>
+
+<div style="float:right;"><script language=JavaScript>datetime() ;</script></div>
+<div style="clear:both;"></div>
+</td></tr>
+</table>
+
+	<!-- Phan trai -->
+	<div style="float:left; height:1500; background:#ad79ad;">
+	<div style="float:left; width:193px; padding-top:10px; padding-left:5px; padding-right:5px; background:#ad79ad;">
+	<div style="width:100px;">
+            <div id="top_left_trai" style="width:200px; height:20px; padding-top:10px;"><font color="#FFFFFF">&nbsp;&nbsp;&nbsp;Thể Loại Nhạc</font></div>
+            <div id="bottom_trai" style="width:150px; margin-bottom:0px; background:#000000;">
+            <br />
+<br>
+<font color="white"><b>NHẠC VIỆT NAM</b></font>
+
+<div style="height:5px; padding-top:5px; "><img src="theme/img/nut_theloai.gif"><a href="javascript:void(0)" onclick="loadAjax('1','1','3','');"><font color="white">Nhạc Trẻ </font></a></div><br>    
+<div style="height:5px; "><img src="theme/img/nut_theloai.gif"><a href="javascript:void(0)" onclick="loadAjax('7','1','3','');"><font color="white">Rap Việt </font></a></div><br> 
+<div style="height:5px; "><img src="theme/img/nut_theloai.gif"><a href="javascript:void(0)" onclick="loadAjax('11','1','3','');"><font color="white">Rock Việt </font></a></div><br> 
+<div style="height:5px; "><img src="theme/img/nut_theloai.gif"><a href="javascript:void(0)" onclick="loadAjax('20','1','3','');"><font color="white">Trữ Tình </font></a></div><br> 
+<div style="height:5px; "><img src="theme/img/nut_theloai.gif"><a href="javascript:void(0)" onclick="loadAjax('9','1','3','');"><font color="white">Cách Mạng </font></a></div><br> 
+<div style="height:5px; "><img src="theme/img/nut_theloai.gif"><a href="javascript:void(0)" onclick="loadAjax('14','1','3','');"><font color="white">Quê Hương </font></a></div><br> 
+<div style="height:15px; "><img src="theme/img/nut_theloai.gif"><a href="javascript:void(0)" onclick="loadAjax('12','1','3','');"><font color="white">Nhạc Trịnh </font></a></div><br> 
+<font color="white"><b>NHẠC QUỐC TẾ</b></font>
+<div style="height:5px; padding-top:5px; "><img src="theme/img/nut_theloai.gif"><a href="javascript:void(0)" onclick="loadAjax('5','1','3','');"><font color="white">Âu Mỹ </font></a></div><br> 
+
+<div style="height:5px; "><img src="theme/img/nut_theloai.gif"><a href="javascript:void(0)" onclick="loadAjax('2','1','3','');"><font color="white">Nhạc Hoa </font></a></div><br> 
+<div style="height:5px; "><img src="theme/img/nut_theloai.gif"><a href="javascript:void(0)" onclick="loadAjax('3','1','3','');"><font color="white">Nhạc Hàn </font></a></div><br> 
+<div style="height:5px; "><img src="theme/img/nut_theloai.gif"><a href="javascript:void(0)" onclick="loadAjax('4','1','3','');"><font color="white">Nhạc Nhật </font></a></div><br> 
+<div style="height:15px; "><img src="theme/img/nut_theloai.gif"><a href="javascript:void(0)" onclick="loadAjax('18','1','3','');"><font color="white">Nhạc Pháp </font></a></div><br>  
+<font color="white"><b>THỂ LOẠI KHÁC</b></font>
+<div style="height:5px; padding-top:5px; "><img src="theme/img/nut_theloai.gif"><a href="javascript:void(0)" onclick="loadAjax('15','1','3','');"><font color="white">Nhạc Thiếu Nhi </font></a></div><br> 
+<div style="height:5px; "><img src="theme/img/nut_theloai.gif"><a href="javascript:void(0)" onclick="loadAjax('13','1','3','');"><font color="white">Nhạc Không Lời </font></a></div><br> 
+<div style="height:0px; "><img src="theme/img/nut_theloai.gif"><a href="javascript:void(0)" onclick="loadAjax('22','1','3','');"><font color="white">Nhạc Phim </font></a></div><br> 
+        
+
+            </div>
+
+	<img src="theme/img/thanhduoitrai.jpg">		
+
+        </div>
+	<div style="width:100px;">
+            <div id="top_left_trai" style="width:200px; height:20px; padding-top:10px;"><font color="#FFFFFF">&nbsp;&nbsp;&nbsp;Ca Sỹ</font></div>
+            <div id="bottom_trai" style="width:150px; margin-bottom:0px; background:#000000;">
+            <br />
+<div style="height:10px; padding-top:10px;"><a href="javascript:void(0)" onclick="loadAjax('Akira Phan','1','2','');"><font color="white">» Akira Phan </font></a></div><br>    
+<div style="height:10px; "><a href="javascript:void(0)" onclick="loadAjax('Bảo Thy','1','2','');"><font color="white">» Bảo Thy </font></a></div><br> 
+<div style="height:10px; "><a href="javascript:void(0)" onclick="loadAjax('Đàm Vĩnh Hưng','1','2','');"><font color="white">» Đàm Vĩnh Hưng </font></a></div><br> 
+
+<div style="height:10px; "><a href="javascript:void(0)" onclick="loadAjax('Đăng Khôi','1','2','');"><font color="white">» Đăng Khôi </font></a></div><br> 
+<div style="height:10px; "><a href="javascript:void(0)" onclick="loadAjax('Đan Trường','1','2','');"><font color="white">» Đan Trường </font></a></div><br> 
+<div style="height:10px; "><a href="javascript:void(0)" onclick="loadAjax('Hồ Ngọc Hà','1','2','');"><font color="white">» Hồ Ngọc Hà </font></a></div><br> 
+<div style="height:10px; "><a href="javascript:void(0)" onclick="loadAjax('Hồ Quỳnh Hương','1','2','');"><font color="white">» Hồ Quỳnh Hương </font></a></div><br> 
+<div style="height:10px; "><a href="javascript:void(0)" onclick="loadAjax('Noo Phước Thịnh','1','2','');"><font color="white">» Noo Phước Thịnh </font></a></div><br> 
+<div style="height:10px; "><a href="javascript:void(0)" onclick="loadAjax('Nguyên Vũ','1','2','');"><font color="white">» Nguyên Vũ </font></a></div><br> 
+<div style="height:10px; "><a href="javascript:void(0)" onclick="loadAjax('Lý Hải','1','2','');"><font color="white">» Lý Hải </font></a></div><br> 
+<div style="height:10px; "><a href="javascript:void(0)" onclick="loadAjax('Mỹ Tâm','1','2','');"><font color="white">» Mỹ Tâm </font></a></div><br> 
+<div style="height:10px; "><a href="javascript:void(0)" onclick="loadAjax('Phan Đình Tùng','1','3','');"><font color="white">» Phan Đình Tùng </font></a></div><br> 
+
+<div style="height:10px; "><a href="javascript:void(0)" onclick="loadAjax('Quang Vinh','1','2','');"><font color="white">» Quang Vinh </font></a></div><br> 
+<div style="height:10px; "><a href="javascript:void(0)" onclick="loadAjax('Thanh Thảo','1','2','');"><font color="white">» Thanh Thảo </font></a></div><br> 
+<div style="height:0px; "><a href="javascript:void(0)" onclick="loadAjax('Thủy Tiên','1','2','');"><font color="white">» Thủy Tiên </font></a></div><br>         
+            
+            </div>
+	<img src="theme/img/thanhduoitrai.jpg">	
+
+        </div>
+	</div>
+	</div>
+	<!-- Het phan trai -->
+	
+	<!-- Phan giua -->
+
+    <div style="float:left; width:465px; padding-top:0px; padding-left:5px; padding-right:5px; background:#FFFFFF;">
+			<div id="bottom"  style="width:461px; background:#FFFFFF; padding:10px 0px 20px 0px;">
+			
+        <!--<div id="content">-->
+				<div id="top" style="padding-bottom:10px;">
+                <div id="top_center">
+                    <div id="box_search">
+                        <div style="float:left;">
+                            <form id="bu_form" action="index.php" method="post">
+                            <input type="text" id="search" value="Nhập vào tiếng Việt không dấu..." onclick="(this.value='')" id="search">
+
+                        </div>
+                        <div style="float:left;">
+                         	<input type="submit" id="submit" value="Search" />
+                        </div>
+                    </div>
+                </div>
+                <div id="select_type">
+                	<select class="select_t" id="type">
+                    	<option value="1">Bài hát</option>
+
+                        <option value="2">Ca sỹ</option>
+                        <option value="4">Album</option>
+                        <option value="5">Video</option>
+                    </select>
+				</div>
+							</form>
+                <div style="clear:both;"></div>
+
+				</div>
+				<div id="play_result"></div>
+				<div id="top_result" style="width:100px;"></div>
+				        				<img src="theme/img/playlistdl.jpg">
+				<div style="height:10px;"></div>
+                <div id="list_result"></div>
+            </div>
+        <!-- </div> --->
+        <div style="height:10px;"></div>
+
+        
+
+    </div>
+	<!-- Het Phan giua -->
+	
+	<!-- Phan phai -->
+    <div style="float:left; width:250px; padding:0px 0px 0px 0px;">
+    	<div id="playlist_result"></div>
+    <!-- album hot   -->
+    <div style="float:left; width:250px; padding:0px 0px 0px 0px;">
+        <div id="topalbum_result"></div>
+        </div></div>
+
+	<!-- het album hot -->
+
+	<!-- Het phan phai -->
+
+    <div style="clear:both;"><!-- FOOTER -->
+<tr><td>
+<table cellpadding="0" cellspacing="0" border="0" width="945">
+<tr><td>
+<div class="top_footer">
+     <ul>
+      <li><a href="http://www.hoisinhvienvietnam.com/diendan">Home</a></li>
+
+	  <li><a href="#">Music</a></li>
+	  <li><a href="http://www.hoisinhvienvietnam.com/diendan/forumdisplay.php?f=13">News</a></li>
+      
+       <li><a href="mailto:vvhuy298@gmail.com">Liên hệ</a></li>     </ul>
+</div>
+</td></tr>
+<tr><td class="bg_footer" align="center">
+Powered by <b>Hmedia 2010</b>.Code by <b>HoiSinhVienVietNam.Com</b>.Skin by Dark<br>
+Kích thước thích hợp <b>1024x768</b>. Với trình duyệt <b>Internet Explorer 8</b>, <b>Firefox</b> & <b>Opera</b>
+</td></tr>
+
+</table>
+</td></tr>
+<!-- END FOOTER --></div>
+<script language="javascript" type="text/javascript" src="js/jquery.process.js"></script>
+</body>
+</html>

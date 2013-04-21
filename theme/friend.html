@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>[THT Blog's]|[Music Online]</title>
+</head>
+<link href="theme/css/css.css" rel="stylesheet" type="text/css" />
+<!--[if IE]>
+<style type="text/css">
+#submit
+{
+	width:58px; 
+}
+</style>
+<![endif]-->
+<!--[if lt IE 8]>
+<style type="text/css">
+#search
+{
+	margin:4px 0px 0px 0px; 
+}
+</style>
+<![endif]-->
+<!--[if IE 7]>
+<style type="text/css">
+#search
+{
+	height:15px; 
+}
+</style>
+<![endif]-->
+<!--[if IE 6]>
+<style type="text/css">
+#submit
+{
+	height:28px;
+    margin-bottom:-10px;
+}
+#box_search
+{
+	margin:4px 4px -6px 4px;
+}
+</style>
+<![endif]-->
+<body>
+<div id="wrapper">
+
+        <div id="play">
+
+            <div id="top">
+                <div id="bottom" style="text-align:center; width:410px; background:#FFF top center repeat-x;">    
+                <div style="text-align:left; padding-left:85px;">
+                Ca khúc : <a href="download.php?id={song.ID}"><img style="border:0px solid;" src="theme/img/download.png" /></a> <a>{song.NAME}</a><br />
+                Thể hiện :  <a>{song.SINGER}</a><br />
+                <br />
+                </div>
+
+                
+                <embed type="application/x-shockwave-flash" id="Mediaplayer" wmode="transparent" name="Mediaplayer" src="flashplayer.swf" quality="high" allowfullscreen="true" allowscriptaccess="always" bgcolor="#000000" flashvars="file=download.php?id={song.ID}#hiep.mp3&image=previewf.jpg&abouttxt=[THT Blog's]&aboutlnk=http://diemtua.net&showfsbutton=true&autostart=true&repeat=true" height="280" width="350">
+</embed>
+
+               
+                </div>
+               
+            </div>
+        </div>
+    <div id="footer">
+
+    </div>
+</body>
+</html>
+

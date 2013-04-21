@@ -1,0 +1,38 @@
+<table><div id="top_left" style="width:463px; height:31px; padding-top:0px; "><font color="612f8b"><br>&nbsp;&nbsp;&nbsp;Danh Sách Các Bài Hát</font></div>
+<div style="width:450px;">
+		<!-- BEGIN list --> 
+		<!-- #BEGIN list_row -->
+		<table>
+			<table cellspacing=0 width=100% bgcolor="#FFFFFF">
+			<td width="9%" height="30"><b>&nbsp;&nbsp;<img src="theme/img/type/flv.gif"></b></td>
+			<td align=left width="52%">
+				<b>
+				<a href="javascript:void(0);" onclick="playYoutube('{song.ID}');">{song.NAME}</a> </b>
+
+			</td>
+			<td align=left width="25%"><a class="a_s" href="javascript:void(0);" onclick="playYoutube('{song.ID}');"><img src="{song.IMG}" style="width:40px; height:40px; border:0px;" />
+               </div></a></td>
+			<td align=left width="2%"><a href="download.php?id={song.ID}"><img style="border:0px solid;" src="theme/img/download.png" /></a></td>
+			<td align=left width="2%"><a href="javascript:void(0);" onclick="addPl('add','{song.ID}','{song.NAME}','{song.SINGER}');"><img style="border:0px solid;" src="theme/img/add.png" /></a></td>
+			
+
+		<!-- #END list_row -->
+		<!-- END list -->
+		</table>
+</table>
+
+<!---Phân trang--->
+<div id="nen_trang" style="width:463px; height:35px; padding-bottom:30px;"><br>
+<div style="float:left; width:150px;">
+{ga_pre}
+</div>
+<div style="float:left; width:160px; text-align:center; font-weight:bold; font-size:11px;">
+<font color="white">Page {ga_page} of {ga_result}</font>
+</div>
+<div style="float:right; width:150px; text-align:right;">
+{ga_next}
+</div>
+
+<!---Hết phân trang--->
+</div>
+</table>
