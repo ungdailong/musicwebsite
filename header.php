@@ -18,7 +18,7 @@
 <!--[if lt IE 9]><script src="js/html5.js" type="text/javascript"></script><![endif]-->
 <!--[if IE]><link href="css/ie_style.css" rel="stylesheet" type="text/css" /><![endif]-->
 </head>
-<body id="page1" onLoad="loadAjax('<?php echo $keyword?>','<?php echo $page?>','<?php echo $by?>','<?php echo $row?>')&topSong('bai-hat-Viet-Nam/IWZ9Z08I','1')&showPl()&topAlbum('playlist/top-20.nhac-viet','1');">
+<body id="page1" onLoad="loadAjax('<?php echo $keyword?>','<?php echo $page?>','<?php echo $by?>','<?php echo $row?>')&topSong('bai-hat-Viet-Nam/IWZ9Z08I','1')&showPl()&topAlbum('the-loai-album/Viet-Nam/IWZ9Z08I','1');">
 <div id="main">
 	<header>
 		<nav>

@@ -189,7 +189,7 @@ else if($_POST['type'] && $_POST['page'] && !$_POST['types'])
 }
 else if($_POST['type'] && $_POST['page'] && $_POST['types'])
 {
-	if($ga->topAlbumNCT())
+	if($ga->topAlbum())
 	{
 		$arr = $ga->arr;
 		$main	= $tpl->get('theme/top_album');

@@ -12,6 +12,7 @@ if($_GET['type'] == 'play')
 	$id = $_GET['id']; 
 	$http->clear();
 	//nhaccuatui
+	/*
 	$http->setTarget('http://www.nhaccuatui.com/playlist/'.$id.'.html');
 	$http->setReferrer("http://www.nhaccuatui.com");
 	$http->execute();
@@ -27,40 +28,19 @@ if($_GET['type'] == 'play')
 	$http->execute();
 	$html = $http->result;
 	$t = $html;
-	//$fp = fopen("te.txt","w");
-		//fwrite($fp,$html);
-		
-		//fclose($fp);
-	$doc = new DOMDocument();
-  $doc->load( 'playlist.xml' );
-$books = $doc->getElementsByTagName( "track" );
-  foreach( $books as $book )
-  {
-  	echo 1;
-  echo $authors = $book->getElementsByTagName( "title" );
+	
+	
   
-  
-  
-  }
-
-  die();
-		$fp = fopen("te.txt","r");
-$ac = fgets($fp,9999);
-fclose($fp);
-		//die();
-	//$html = fgets("te.txt");
-	echo $ac;
-	die();
 	$url_ = explode('<location>',$html);
 	print_r($url_);die();
-	//$url1 = array_shift($url_);
+	
 	$url = array();
 	foreach ($url_ as $key => $value) {
 		echo $value;
 		$urlt = explode(']]',$value);
 		$url[] = $urlt[0];
 	}
-	//print_r($url);
+	
 	die();
 	$name_ = explode('
 <title>
@@ -79,7 +59,8 @@ fclose($fp);
 		$singert = explode(']]',$value);
 		$singer[] = $singert[0];
 	}
-	/* mp3
+	*/
+	 //mp3.zing.vn
 	$http->setTarget('http://mp3.zing.vn/album/'.$id.'.html');
 	$http->setReferrer("http://mp3.zing.vn");
 	$http->execute();
@@ -102,6 +83,26 @@ fclose($fp);
 		$url[] = $urlt[0];
 	}
 	
+	$mp3 = array();
+	foreach ($url as $key => $value) {
+		$ch = curl_init();
+	    curl_setopt($ch, CURLOPT_URL, $value);  
+	    curl_setopt($ch, CURLOPT_REFERER, "http://mp3.zing.vn");
+	    curl_setopt($ch, CURLOPT_USERAGENT, "MozillaXYZ/1.0");
+	    curl_setopt($ch, CURLOPT_HEADER, 1);
+	    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+	    curl_setopt($ch, CURLOPT_TIMEOUT, 10);
+	    $output = curl_exec($ch);
+	    curl_close($ch);
+	 	$mp3[] =  str_replace('mp3.zdn', 'hot2.cache11.vcdn',$http->get_string_between($output,1,0,'Location: ','
+'));
+	 	//die();
+	}
+	$url = $mp3;
+	//print_r($url);
+	//die();
+	unset($mp3);
+	//////////
 	$name_ = explode('<title><![CDATA[ ',$html);
 	$name1 = array_shift($name_);
 	$name = array();
@@ -117,7 +118,7 @@ fclose($fp);
 		$singert = explode(']]',$value);
 		$singer[] = $singert[0];
 	}
-	*/
+	
 	
 	// $fp = fopen("te.txt","w");
 	// 	fwrite($fp,$url_[1]);
@@ -136,9 +137,9 @@ fclose($fp);
 		$html_javascript .= '},';
 	}
 	$html_javascript .= '],{
-		swfPath: "js",
-		supplied: "oga, mp3",
-		wmode: "window"
+		swfPath: "http://www.jplayer.org/latest/js/Jplayer.swf",
+		supplied: "mp3",
+		solution: "html,flash"
 	});';
 	//echo $html_javascript;die();
 	///////////////////////////
@@ -153,7 +154,8 @@ fclose($fp);
 				   'song.ID' 		=> $id,
 				   'song.SINGER' 	=> $singer,
 				   'html.album_hot' => $html_album_hot,
-				   'html.javascript' => $html_javascript
+				   'html.javascript' => $html_javascript,
+				   'song.TITLE' => $title
 				   );
 	$tpl->show($tpl->assign($htmls,$array));
 }

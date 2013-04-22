@@ -96,7 +96,7 @@ ul.audio .play {width:40px;height:26px;float:left;background:url(../images/audio
 .header-slider li {float:left;display:block;width:360px}
 #jplayer {height:0;overflow:hidden}
 .jp-audio {width:586px;height:178px;background:url(../images/jplayer-bg.png) no-repeat;position:relative;margin-bottom:28px}
-.jp-audio h2 {position:absolute;left:44px;top:12px}
+.jp-audio h2 {position:absolute;left:44px;top:12px;font-size: 22px;}
 .jp-audio .jp-title {position:absolute;left:116px;top:77px;font:24px/1.2em Arial, Helvetica, sans-serif;color:#fff}
 .jp-audio a {text-decoration:none;color:#fff}
 .jp-audio a:hover {color:#74be00}

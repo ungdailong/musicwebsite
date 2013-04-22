@@ -176,19 +176,20 @@ class Find
 		if(!$this->page || $this->page == '') $this->page = '1';
 		$this->http    = new Http();
 		$this->http->clear();
-		$this->http->setTarget('http://mp3.zing.vn/'.$this->keyword.'.html?sort=hot');
+		
+		$this->http->setTarget('http://mp3.zing.vn/'.$this->keyword.'.html?sort=release_date');
 		$this->http->setReferrer("http://mp3.zing.vn");
 		$this->http->execute();
 		$this->html   = $this->http->result;
 		
 		$this->item   = explode('<div class="album-item">',$this->html);
 		$this->arr[]  = array();
-		$j  = 1;
+		//$j  = 1;
 		for($i=1; $i<=count($this->item); $i++)
 		{
-			$hot =  strpos($this->item[$i],'Album hot');
+			//$hot =  strpos($this->item[$i],'Album hot');
 			//echo $hot.'</br>';
-			if($hot > 0){
+			//if($hot > 0){
 			//$this->data     = $this->http->get_string_between($this->item[$i],1,0,'<h1><a href="http://mp3.zing.vn/mp3/nghe-album/','</a></h1>');
 			$this->id		= $this->http->get_string_between($this->item[$i],1,0,'href="/album/','"');
 			$this->name 	= $this->http->get_string_between($this->item[$i],1,0,'title="','"');
@@ -197,12 +198,12 @@ class Find
 			// $fp = fopen('te.txt', "w");
 		 // fwrite($fp, $this->name);
 		 // fclose($fp);die();
-			$this->arr[$j]	= 	array(	"name"		=>	$this->name,
+			$this->arr[$i]	= 	array(	"name"		=>	$this->name,
 										"id"		=> 	$this->id,
 										"img"		=>  $this->img
 									  );
-			$j ++;
-			}
+			//$j ++;
+			//}
 		}
 		return $this->arr;
 	}
