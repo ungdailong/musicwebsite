@@ -23,7 +23,7 @@ $("#bu_form").submit(function() {
 	return false;
 });
 function showLoader(type) {
-$("#"+type+"_result").html("<img src='theme/img/load.gif' /> Loading...");
+$("#"+type+"_result").html("<img src='theme/img/load.gif' /> Đang tải bài hát...");
 block = true;
 }
 function showResult(type,data) {
@@ -41,7 +41,7 @@ function closeContent(type) {
 	block = false;
 }
 function loadAjax(keyword,page,by,row){
-showLoader('load');
+showLoader('list');
     $.ajax({
         url: 'index.php',
         type: 'POST',

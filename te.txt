@@ -1,9 +1,1 @@
-HTTP/1.1 302 Moved Temporarily
-Server: nginx
-Date: Mon, 22 Apr 2013 16:54:21 GMT
-Content-Type: text/html; charset=utf-8
-Transfer-Encoding: chunked
-Connection: close
-Location: http://stream2.mp3.zdn.vn/fsfsdfdsfdserwrwq3/4008928f276a4d80c997a8c554fc235c/51756b3d/2013/04/18/4/e/4ed9dc58fc9e4a84b4b0dc28b8cd29de.mp3
-Server: VNG-MP3-207
-
+2204

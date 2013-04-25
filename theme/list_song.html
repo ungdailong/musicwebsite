@@ -11,7 +11,7 @@
 			<!-- #BEGIN list_row -->
 			<tr {song.CLASS} >
 			<td class="col1">
-				<a href="get.php?id={song.ID}&type=play" class="name">{song.NAME}</a><br>
+				<a href="get.php?id={song.ID}&type=play" class="name" title="{song.NAME}">{song.NAME}</a><br>
 				<a title="tìm bài hát của {song.SINGER}" href="search.php?keyword={song.SINGER}&by=artist">{song.SINGER}</a>
 			</td>
 			<td>{song.CAT}</td>

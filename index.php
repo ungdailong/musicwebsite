@@ -244,11 +244,12 @@ else if($_POST['type'] == 'playalbum' && $_POST['id'])
 }
 else
 {
-		$input = array("Minh Hằng", "Tình yêu", "Mùa đông", "Happy new year", "Phố", "Giấc mơ");
-		$rand_keys = array_rand($input, 6);
-		
+		$input = array("Minh Hằng", "Bùi Bích Phương", "Khởi My", "Vy Oanh", "Thu Thủy","Đông Nhi","Khổng Tú Quỳnh","Thanh Tâm","Ngân Khánh","Miu Lê");
+		shuffle($input);
 		$html = $tpl->get('theme/main');
-		$array = array('key.WORD' => $input[$rand_keys[0]]);
+		$array = array('key.WORD' => $input[0]);
+		$title = "Nghe nhạc chất lượng cao Nhạc mp3 nhạc hot top album";
+		$keyword = $input[0];
 		include("header.php");
 		$tpl->show($tpl->assign($html,$array));
 }

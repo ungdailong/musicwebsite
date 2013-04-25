@@ -47,7 +47,7 @@ class Find
 			{
 				//echo 'http://mp3.zing.vn/tim-kiem/bai-hat.html?t='.$this->theo.'&q='.$this->keyword;
 				//$this->http->setTarget('http://mp3.zing.vn/mp3/search/do.html?t='.$this->theo.'&q='.$this->keyword);
-				$this->http->setTarget('http://mp3.zing.vn/tim-kiem/bai-hat.html?t='.$this->theo.'&q='.$this->keyword);
+				$this->http->setTarget('http://mp3.zing.vn/tim-kiem/bai-hat.html?q='.$this->keyword);
 			}
 			else
 			{
@@ -59,13 +59,16 @@ class Find
 		$this->http->execute();
 		
 		$this->html   = $this->http->result;
-		$this->total  = intval(strip_tags($this->http->get_string_between($this->html,1,0,'tìm được ',' bài hát')));
+		$this->total  = intval(str_replace('.', '',strip_tags($this->http->get_string_between($this->html,1,0,'tìm được ',' bài hát'))));
+		
 		if($this->total == 0)
 		{
 			echo '<center><b style="color:#f63">Không tìm thấy kết quả nào</b></center>';
 			exit();
 		}
-		$this->result = ceil(trim($this->total)/20);
+		$this->result = ceil(intval(trim($this->total))/20);
+		//echo $this->total . '-' . $this->result;
+		//die();
 		$this->item   = explode('<div class="content-item ie-fix">',$this->html);
 		//echo count($this->item);
 		$this->arr[]  = array();
