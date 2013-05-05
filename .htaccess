@@ -1,0 +1,16 @@
+Options -Indexes
+RewriteEngine on
+#other
+
+#RewriteRule \.(css|jpe?g|gif|png|js|swf|php)$ - [L]
+RewriteRule ^favicon.ico$ favicon.ico [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule    ^tim-kiem.html(.*)$         			search.php$1 [L]
+RewriteRule    ^bai-hat/(.*)/theme/img/(.*)$         			theme/img/$2 [L]
+RewriteRule    ^bai-hat/(.*)/js/Jplayer.swf$         			js/Jplayer.swf [L]
+RewriteRule    ^(.*)/(.*)/index.php$         			index.php [L]
+RewriteRule    ^(.*)/(.*)/(.*)/(.*)$         			$3/$4 [L]
+RewriteRule    ^bai-hat/(.*)$         			get.php?id=$1&type=play [L]
+RewriteRule    ^album/(.*)$         			get_album.php?type=play&id=$1.html [L]
+
