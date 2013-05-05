@@ -1,6 +1,8 @@
 
 <article id="content">
+<!--  
 	{html.album_hot}
+-->
 	<div class="col-2">
 		<!-- audio player begin -->
 		<div id="jplayer"></div>
@@ -32,10 +34,8 @@
 
 		<h2>Find Me</h2>
 		<ul class="soc-ico">
-		<li><a href="#"><img src="images/facebook.png" alt=""></a></li>
-		<li><a href="#"><img src="images/twitter.png" alt=""></a></li>
-		<li><a href="#"><img src="images/myspace.png" alt=""></a></li>
-		<li><a href="#"><img src="images/linkedin.png" alt=""></a></li>
+		<li><a title = "Facebook"href="http://www.facebook.com/dangdavien" target="_blank"><img src="images/facebook.png" alt=""></a></li>
+		<li><a title = "Twitter"href="https://twitter.com/viendang" target="_blank"><img src="images/twitter.png" alt=""></a></li>
 		</ul>
 	</div>
   </article>
@@ -43,62 +43,42 @@
 </div>
 
 
-    			<script language="javascript" type="text/javascript" src="js/jquery.process.js"></script>
-    			<script type="text/javascript">
-    			$(function(){
-    				$('nav,.more,.header-more').sprites()
+<script type="text/javascript" src="js/jquery.process.js"></script>
+<script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
+<script type="text/javascript">
+	$(function() {
+		$('nav,.more,.header-more').sprites()
 
-    				$('.header-slider').gSlider({
-    					prevBu:'.hs-prev',
-    					nextBu:'.hs-next'
-    				})
-    			})
-    			$(window).load(function(){
-    				$('.tumbvr')._fw({tumbvr:{
-    					duration:2000,
-    					easing:'easeOutQuart'
-    				}})
-    				.bind('click',function(){
-    					location="index-3.html"
-    				})
-
-    				$('a[rel=prettyPhoto]').each(function(){
-    					var th=$(this),
-    					pb
-    					th
-    					.append(pb=$('<span class="playbutt"></span>').css({opacity:.7}))
-    					pb
-    					.bind('mouseenter',function(){
-    						$(this)
-    						.stop()
-    						.animate({opacity:.9})
-    					})
-    					.bind('mouseleave',function(){
-    						$(this)
-    						.stop()
-    						.animate({opacity:.7})
-    					})
-    				})
-    				.prettyPhoto({theme:'dark_square'})
-    			})
-    			</script>
-    			<script type="text/javascript">
-
-$(document).ready(function(){
-	$("#jplayer").jPlayer({
-		ready: function (event) {
-			$(this).jPlayer("setMedia", {
-				mp3:"{song.URL}",
-			}).jPlayer("play");
-		},
-		swfPath: "js",
-		supplied: "mp3",
-		wmode: "window"
+	})
+</script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("#jplayer").jPlayer({
+			ready : function(event) {
+				$(this).jPlayer("setMedia", {
+					mp3 : "{song.URL}",
+				}).jPlayer("play");
+			},
+			swfPath : "js",
+			supplied : "mp3",
+			wmode : "window"
+		});
+		$("#jplayer").bind($.jPlayer.event.ended + ".repeat", function() {
+			$(this).jPlayer("play");
+		});
 	});
-});
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40579919-2', 'the-vagabond.net');
+  ga('send', 'pageview');
 
 </script>
-    		</body>
+</body>
     		</html>
 
 

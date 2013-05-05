@@ -131,13 +131,13 @@ if($_GET['type'] == 'play')
 		cssSelectorAncestor: "#jp_container_1"
 	}, [';
 	foreach ($url as $key => $value) {
-		$html_javascript .= '{';
-		$html_javascript .=	'title:"'.$name[$key].'",';
-		$html_javascript .= 'mp3:"'.$url[$key].'"';
-		$html_javascript .= '},';
+		$html_javascript .= '{title:"'.$name[$key].'",mp3:"'.$url[$key].'"},';
+		//$html_javascript .=	'title:"'.$name[$key].'",';
+		//$html_javascript .= 'mp3:"'.$url[$key].'"';
+		//$html_javascript .= '},';
 	}
-	$html_javascript .= '],{
-		swfPath: "http://www.jplayer.org/latest/js/Jplayer.swf",
+	$html_javascript .= '],{playlistOptions:{autoPlay: true},
+		swfPath: "js/Jplayer1.swf",
 		supplied: "mp3",
 		solution: "html,flash"
 	});';

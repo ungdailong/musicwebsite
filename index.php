@@ -29,7 +29,8 @@ if($_POST['keyword'] && $_POST['by'] != '4' && $_POST['by'] != '5')
 					   'song.TYPE'		=> $arr[$i]['type'],
 					   'song.RATE'		=> $arr[$i]['rate'],
 					   'song.CLASS'     => $class,
-					   'song.NUM'		=> $i
+					   'song.NUM'		=> $i,
+						'server'		=> URL_SERVER
 					 )
 			);
 		}
@@ -167,6 +168,7 @@ else if($_POST['type'] && $_POST['page'] && !$_POST['types'])
 					   'song.IMG' 		=> 'http://'.$arr[$i]['img'],
 					   'song.ID' 		=> $arr[$i]['id'],
 					   'song.NUM' 		=> $i,
+						'server'		=> URL_SERVER
 					 )
 			);
 		}
@@ -202,6 +204,8 @@ else if($_POST['type'] && $_POST['page'] && $_POST['types'])
 					   'song.IMG' 		=> $arr[$i]['img'],
 					   'song.ID' 		=> $arr[$i]['id'],
 					   'song.NUM' 		=> $i,
+					   'song.NAME1'  	=> $arr[$i]['name'],
+						'server'		=> URL_SERVER
 					 )
 			);
 		}
@@ -247,7 +251,7 @@ else
 		$input = array("Minh Hằng", "Bùi Bích Phương", "Khởi My", "Vy Oanh", "Thu Thủy","Đông Nhi","Khổng Tú Quỳnh","Thanh Tâm","Ngân Khánh","Miu Lê");
 		shuffle($input);
 		$html = $tpl->get('theme/main');
-		$array = array('key.WORD' => $input[0]);
+		$array = array('key.WORD' => $input[0],'server' => URL_SERVER);
 		$title = "Nghe nhạc chất lượng cao Nhạc mp3 nhạc hot top album";
 		$keyword = $input[0];
 		include("header.php");

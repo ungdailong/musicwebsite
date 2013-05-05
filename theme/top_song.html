@@ -1,8 +1,8 @@
 <div class="und">
 	<!-- BEGIN list --> 
 <!-- #BEGIN list_row -->
-<div><a href="get.php?id={song.ID}&type=play"><img  width="60" height="60"src='{song.IMG}'></a><a href="get.php?id={song.ID}&type=play"style='margin-left:6px' title="{song.NAME}"><b>{song.NAME}.</b></a><br>
-	<a href="search.php?keyword={song.SINGER}&by=artist" style='left:66px;position:relative;top:-35px' title="tìm bài hát của {song.SINGER}">{song.SINGER}</a>
+<div><a href="{server}/bai-hat/{song.ID}"><img  width="60" height="60"src='{song.IMG}'></a><a href="{server}/bai-hat/{song.ID}"style='margin-left:6px' title="{song.NAME}"><b>{song.NAME}.</b></a><br>
+	<a href="{server}/tim-kiem.html?keyword={song.SINGER}&by=artist" style='left:66px;position:relative;top:-35px' title="tìm bài hát của {song.SINGER}">{song.SINGER}</a>
 </div>
 <!-- #END list_row -->
 <!-- END list -->

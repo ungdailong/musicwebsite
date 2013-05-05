@@ -1,1 +1,851 @@
-2204
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+				<title>Chờ Ngày Mưa Tan - Noo Phước Thịnh ft. Tonny Việt | 320 lyrics</title>
+		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+		<meta name="title" content="Chờ Ngày Mưa Tan - Noo Phước Thịnh ft. Tonny Việt | 320 lyrics" />
+		<meta name="description" content="Cho Ngay Mua Tan Noo Phuoc Thinh ft. Tonny Viet download tải nhạc chờ bài hát Chờ Ngày Mưa Tan Noo Phước Thịnh ft. Tonny Việt 320 kbps lossless Một ngày mưa và em khuất xa nơi anh, bóng dáng cứ phai dần 
+Phải bao lâu anh mới quên ..." />
+		<meta name="keywords" content="Chờ Ngày Mưa Tan, Noo Phước Thịnh ft. Tonny Việt, Cho Ngay Mua Tan, Noo Phuoc Thinh ft. Tonny Viet, Trung Đức, Việt Nam, nhac cho, nhac chuong, lyrics, loi bai hat" />
+		<meta name="ROBOTS" content="index, follow" />
+		<meta name="google-site-verification" content="P5DkQ2snxl62jA_Bhe49Kgv4Gxq9fsloWRK-yt6DM1E" />
+		<link rel="canonical" href="http://mp3.zing.vn/bai-hat/Cho-Ngay-Mua-Tan-Noo-Phuoc-Thinh-Tonny-Viet/ZW6Z96IC.html.html"/>
+		<meta property="og:url" content="http://mp3.zing.vn/bai-hat/Cho-Ngay-Mua-Tan-Noo-Phuoc-Thinh-Tonny-Viet/ZW6Z96IC.html.html" />
+		<meta property="og:title" content="Chờ Ngày Mưa Tan - Noo Phước Thịnh ft. Tonny Việt | 320 lyrics">
+		<meta property="og:description" content="Cho Ngay Mua Tan Noo Phuoc Thinh ft. Tonny Viet download tải nhạc chờ bài hát Chờ Ngày Mưa Tan Noo Phước Thịnh ft. Tonny Việt 320 kbps lossless Một ngày mưa và em khuất xa nơi anh, bóng dáng cứ phai dần 
+Phải bao lâu anh mới quên ..." />
+		<meta property="og:type" content="video">
+		<meta property="og:image" content="http://image.mp3.zdn.vn/thumb/165_165/avatars/a/c/acac606ea8ccc82446d3111736734a9f_1353582559.jpg" />
+		<meta property="og:video" content="http://mp3.zing.vn/embed/bai-hat/ZW6Z96IC" />
+		<meta property="og:video:type" content="application/x-shockwave-flash" />
+		<meta property="og:video:width" content="400" />
+		<meta property="og:video:height" content="77" />
+		<meta property="og:site_name" content="Zing MP3" />
+		<meta property="fb:app_id" content="346193702147647" />
+		
+
+<link href="http://static.mp3.zdn.vn/skins/mp3_version3_05/css/reset-1.0.css" rel="stylesheet" type="text/css" />
+<link href="http://static.mp3.zdn.vn/skins/mp3_version3_05/css/style-3.1.css" rel="stylesheet" type="text/css" />
+<link href="http://static.mp3.zdn.vn/skins/mp3_version3_05/css/developer-2.0.css" rel="stylesheet" type="text/css" />
+<!--[if IE ]><link rel="stylesheet" href="http://static.mp3.zdn.vn/skins/mp3_version3_05/css/ie-1.6.css" type="text/css" /><![endif]-->
+<link href="http://static.mp3.zdn.vn/skins/mp3_main/css/zm.ui-1.38.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" language="javascript" src="http://static.mp3.zdn.vn/skins/mp3_main/js/core/zmCore-1.50.min.js"></script>
+<script type="text/javascript" language="javascript">
+	document.domain		= 'zing.vn';
+	var MP3 = {"MP3_URL":"http:\/\/mp3.zing.vn\/","LOG_URL":"http:\/\/log.mp3.zing.vn\/","INTERACTION_URL":"http:\/\/interaction.mp3.zing.vn\/","IMAGE_URL":"http:\/\/image.mp3.zdn.vn\/","STATIC_URL":"http:\/\/static.mp3.zing.vn\/","STATIC_URL_NEW":"http:\/\/static.mp3.zdn.vn\/","STATIC_URL_V3":"http:\/\/static.mp3.zdn.vn\/","SKIN_PATH":"skins\/mp3_v3_16\/","SKIN_PATH_V3":"skins\/mp3_version3_05\/","STATIC_PATH":"http:\/\/static.mp3.zing.vn\/skins\/mp3_v3_16\/","ME_WIDGET_URL":"http:\/\/widget.me.zing.vn\/","LABEL_URL":"http:\/\/label.mp3.zing.vn\/","PRODUCT_ID":"10","URL_VNG_SSO":"https:\/\/sso3.zing.vn\/login","URL_VNG_SSO_RETURN":"http:\/\/mp3.zing.vn\/login\/index.html","LIKE_URL_GET":"http:\/\/like.mp3.zing.vn\/get","LIKE_URL_ACTIVE":"http:\/\/like.mp3.zing.vn\/like","LIKE_URL_DEACTIVE":"http:\/\/like.mp3.zing.vn\/unlike","LIKE_URL_VISITOR":"http:\/\/like.mp3.zing.vn\/list"};
+	if (location.href.search('mess=succ') != -1) {
+		location.href	= MP3.MP3_URL;
+	}
+	MP3.IEVERSION	= 7;
+	if (zmCore.browser['msie']) {
+		MP3.IEVERSION	= parseInt(zmCore.browser['version'], 10);
+	}
+</script>
+
+<style type="text/css">
+.main-nav > ul > li {
+    padding: 0 11px;
+}
+.nav-li-hover, .main-nav > ul > li:hover, .main-nav > ul > li.selected {
+    padding: 0 10px !important;
+}
+</style>
+<script type="text/javascript" language="javascript">
+	if( window!= window.top ) {
+		top.location.href = location.href; 
+	}
+</script>
+<script type="text/javascript" language="javascript">
+	/* redirect sang mobile */
+	var Browser = {
+		detectBrowser:function()
+		{
+			var type	= 0;
+			var userAgent	= navigator.userAgent;
+			switch (true) {
+				/* Symbian 3 */
+				case (userAgent.search(/Symbian\/3/gi) > -1):
+					type	= 2;
+					break;
+				/* midp compatible */
+				case userAgent.indexOf('MIDP') > -1:
+					type	= 1;
+					break;
+				/* opera mini */
+				case userAgent.indexOf('Opera Mini') > -1:
+					type	= 1;
+					break;
+				/* MAUI */
+				case userAgent.indexOf('MAUI') > -1:
+					type	= 1;
+					break;
+				/* mobile safari */
+				case userAgent.search(/Mobile.*Safari/gi) > -1:
+					if (userAgent.indexOf('iPad') > -1) {
+						if (!zm.cookie('IS_NOT_PC')) {
+							zm.cookie('BANNER_OFF', '1', {expires: 100, path: '/'});
+						}
+						zm.cookie('IS_NOT_PC', '1', {expires: 2, path: '/'});
+						MP3.IS_NOT_PC	= 1;
+						type	= 0;
+					} else {
+						type	= 2;
+					}
+					break;
+				/* Iphone */
+				case userAgent.indexOf('iPhone') > -1:
+					type	= 2;
+					break;
+				/* Ipod */
+				case userAgent.indexOf('iPod') > -1:
+					type	= 2;
+					break;
+				/* Android */
+				case userAgent.indexOf('Android') > -1:
+					type	= 2;
+					break;
+				/* Samsung */
+				case userAgent.indexOf('samsung') > -1:
+					type	= 1;
+					break;
+				/* LG */
+				case userAgent.indexOf('LG') > -1:
+					type	= 1;
+					break;
+				/* Motorola */
+				case userAgent.indexOf('MOT') > -1:
+					type	= 1;
+					break;
+				/* Motorola */
+				case userAgent.indexOf('MOTOROLA') > -1:
+					type	= 1;
+					break;
+				/* BlackBerry compatible */
+				case userAgent.indexOf('BlackBerry') > -1:
+					type	= 1;
+					break;
+				/* Nokia */
+				case userAgent.indexOf('Nokia') > -1:
+				/* IEMobile compatible */
+				case userAgent.indexOf('IEMobile') > -1:
+					type	= 1;
+					if (userAgent.indexOf('Windows Phone') > -1) {
+						type	= 2;
+					}
+					break;
+				/* HTC */
+				case userAgent.indexOf('HTC') > -1:
+					type	= 1;
+					break;
+				default:
+					type	= 0;
+					break;
+			}
+			return type;
+		}
+	}
+	var cookiRedir	= zm.cookie('IS_MOBILE');
+	var type	= 0;
+	type		= Browser.detectBrowser();
+	if (type > 0) {
+		MP3.BANNER_OFF	= 1;
+	}
+	var domain, uri	= '';
+	uri		= location.pathname + location.search;
+	if (type > 0 && cookiRedir != 0) {
+		switch (type) {
+			case 2:
+				domain	= 'http://m.mp3.zing.vn';
+				break;
+			case 1:
+				domain	= 'http://mp3.m.zing.vn/redirect?url=http://mp3.zing.vn';
+				break;
+		}
+		location.href	= domain + uri;
+	}
+	// check banner off
+	MP3.BANNER_OFF	= zm.cookie('BANNER_OFF');
+	if (typeof (MP3.BANNER_OFF) == 'undefined' || MP3.BANNER_OFF == '') {
+		MP3.BANNER_OFF	= 0;
+	}
+	if (MP3.IEVERSION < 7) {
+		MP3.BANNER_OFF	= 1;
+	}
+</script>
+	</head>
+	<!--[if IE 6 ]><body class="ie6 ie"><![endif]-->
+	<!--[if IE 7 ]><body class="ie7 ie"><![endif]-->
+	<!--[if IE 8 ]><body class="ie8 ie"><![endif]-->
+	<!--[if !IE]>-->
+	<body>
+		<!--<![endif]-->
+		<span id="zads-dynamic" values="ct=vi"></span>		<div class="top-wrap">
+			<div class="header grid980">
+				
+<h2 class="logo"><a href="/"><img width="145" height="39" alt="Zing mp3" src="http://static.mp3.zdn.vn/skins/mp3_main/images/zmp3_logo.jpg"></a></h2>
+	<div class="search">
+		<form method="get" action="/tim-kiem/bai-hat.html" id="_frmSearch" onsubmit="return Search.doSubmit(zm(this), 'q', 'search_type')">
+		<p>
+			<input type="text" class="tbsearch inputSearch" value="" name="q" id="q" rel="on" autocomplete="off"/>
+			<input type="submit" value="" class="btnsearch" />
+		</p>
+		</form>
+		<ul class="tag-page">
+			<li><a href="http://me.zing.vn" target="_blank">ME</a></li>
+			<li class="selected"> <span><strong><a href="http://mp3.zing.vn/">MP3</a></strong></span></li>
+			<li><a href="http://zing.vn" target="_blank">NEWS</a></li>			
+			<li><a href="http://tv.zing.vn" target="_blank">TV</a></li>
+		</ul>
+		<div class="fix-user-vip none" id="_loginAlr"></div>
+		<div class="login none" id="_loginNY">
+			<a href="" id="_login">Đăng nhập</a> / <a href="https://id.zing.vn/register/index.10.html" target="_blank">Đăng ký</a>
+		</div><!--End .user-area -->
+	</div><!-- End .search-->
+
+<div class="main-nav">
+	<a id="home" href="/">Trang chủ</a>
+	<ul>
+		<li id="_menu1" rel="_subMusic" match="(album|bat-hat)">
+			<a href="/the-loai-album.html">Album</a>
+			<div class="zingsubmenu_multicol music_submenu none" id="_subMusic" rel="music"></div>
+	 	</li>
+		<li id="_menu2" rel="_subVideo" match="(the-loai-video|video-clip)">
+			<a href="/the-loai-video.html">Video</a>
+			<div class="zingsubmenu_multicol none" id="_subVideo" rel="video" style="left: 91px; width: 452px;"></div>
+		</li>
+		<li id="_menu3" rel="_subArtist" match="^nghe-si$">
+			<a href="/nghe-si">Nghệ Sĩ</a>
+			<div class="zingsubmenu_multicol none" id="_subArtist" rel="artist" style="left: 147px; width: 452px;"></div>
+		</li>
+		<li class="secp-nav"></li>
+		<li id="_menu4" rel="_subCharts" match="bang-xep-hang">
+			<a href="/bang-xep-hang/index.html">BXH</a>
+			<div class="zingsubmenu_multicol none" id="_subCharts" rel="charts" style="left: 237px; width: 452px"></div>
+		</li>
+		<li id="_menu5" match="^radio$"><a href="/radio">Radio</a></li>
+		<li id="_menu6" match="^real-time$"><a href="/real-time">Real-time</a></li>
+		<li id="_menu7" rel="_subEvent">
+			<a>Sự kiện</a>
+			<div class="zingsubmenu_multicol none" id="_subEvent" rel="event" style="left: 421px; width: 190px"></div>
+		</li>
+		<li id="_menu8" class="show-cart"><a href="http://store.zing.vn" target="_blank">Store</a></li>
+		<li id="_menu9" rel="_subMy" match="/cpanel/">
+			<a id="_mainMenuMyLink" href="/cpanel/music/playlist.html"></a>
+			<div class="zingsubmenu_multicol none" id="_subMy" rel="my" style="left: 524px; width: 452px"></div>
+		</li>
+		<li class="upload"><a href="/upload/song.html" id="_uploadBtn" title="Upload nhanh">Upload</a></li>
+		<li class="off-ads" id="_divToggle"></li>
+	</ul>
+</div><!--End .main-nav -->
+<script language="javascript">
+	MP3.MAINMENU	= ['_menu1', '_menu2', '_menu3', '_menu4', '_menu5', '_menu6', '_menu7', '_menu8', '_menu9'];
+</script>			</div>
+		</div>
+		<div class="wrapper grid980">
+			
+<script language="javascript">
+	if (MP3.BANNER_OFF != 1) {
+		document.writeln('<div class="top-banner _bannerAdsTop">');
+		document.writeln('<div id="_mp3_adsZoneTop" style="height: 60px"></div>');
+		document.writeln('</div><!--End .top-banner -->');
+	}
+</script>
+			<div class="content" id="_content">
+								<div class="detail-content">	
+	<div class="detail-content-title"><h1 class="detail-title">Chờ Ngày Mưa Tan</h1><span>-</span><h2><a href="/tim-kiem/bai-hat.html?q=Noo+Ph%C6%B0%E1%BB%9Bc+Th%E1%BB%8Bnh+ft.+Tonny+Vi%E1%BB%87t" title="Tìm bài hát của Noo Phước Thịnh ft. Tonny Việt">Noo Phước Thịnh ft. Tonny Việt</a></h2> </div>
+	<p class="song-info">Sáng tác: <a href="/tim-kiem/bai-hat.html?q=Trung+%C4%90%E1%BB%A9c&t=composer" title="Tìm bài hát của Trung Đức" class="txtBlue">Trung Đức</a></a> |  Album: <a title="Chờ Ngày Mưa Tan (Single)" href="/album/Cho-Ngay-Mua-Tan-Single-Noo-Phuoc-Thinh-Tonny-Viet/ZWZAAIWZ.html">Chờ Ngày Mưa Tan (Single)</a> |  Thể loại: <a href="/the-loai-bai-hat/Viet-Nam/IWZ9Z08I.html" title="Xem thể loại Việt Nam" class="txtBlue">Việt Nam</a>, <a href="/the-loai-bai-hat/Nhac-Tre/IWZ9Z088.html" title="Xem thể loại Nhạc Trẻ" class="txtBlue">Nhạc Trẻ</a> | Lượt nghe: 16.164.850</p>
+	<div class="player _flashPlayer">
+		<script type="text/javascript">
+	var csm = zm.cookie('csmmp3'), q='';
+	if(csm && csm.length>16) q='?t='+Math.random();
+	document.write('<object id="oplayer" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="640" height="100">'
+		+'<param name="movie" value="http://static.mp3.zdn.vn/skins/mp3_main/flash/zing_mp3_player_v3.1.swf'+q+'" />'
+	+'<param name="quality" value="high" />'
+	+'<param name="wmode" value="transparent" />'
+	+'<param name="allowscriptaccess" value="always"/>'
+	+'<param name="allowfullscreen" value="true"/>'
+	+'<param name="flashvars" value="songid=0&amp;autostart=true&amp;xmlURL=http://mp3.zing.vn/xml/song-xml/ZHJHyknaAQSXHNCTkbJyFmZm&amp;textad=http://mp3.zing.vn/xml/adv/song" />'
+	+'<embed id="player" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" width="640" height="100" src="http://static.mp3.zdn.vn/skins/mp3_main/flash/zing_mp3_player_v3.1.swf'+q+'" flashvars="songid=0&amp;autostart=true&amp;xmlURL=http://mp3.zing.vn/xml/song-xml/ZHJHyknaAQSXHNCTkbJyFmZm&amp;textad=http://mp3.zing.vn/xml/adv/song" /></object>');
+</script><div id="_htmlPlayer" class="none" style="padding-left: 4px">
+	<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+	<div id="jp_container_1" class="jp-audio">
+		<div class="jp-type-single">
+			<div class="jp-title">
+				<a href="http://mp3.zing.vn/tim-kiem/bai-hat.html?q=Cho+Ngay+Mua+Tan">Chờ Ngày Mưa Tan</a> - <a href="http://mp3.zing.vn/tim-kiem/bai-hat.html?q=Noo+Phuoc+Thinh+ft.+Tonny+Viet" class="jp-title-singer">Noo Phước Thịnh ft. Tonny Việt</a>
+			</div>
+			<div class="jp-gui jp-interface">
+				<ul class="jp-controls">
+					<li><a href="javascript:;" class="jp-play" tabindex="1">play</a></li>
+					<li><a href="javascript:;" class="jp-pause" tabindex="1">pause</a></li>
+					<li><a href="javascript:;" class="jp-mute" tabindex="1" title="mute">mute</a></li>
+					<li><a href="javascript:;" class="jp-unmute" tabindex="1" title="unmute">unmute</a></li>
+				</ul>
+				<div class="jp-progress">
+					<div class="jp-seek-bar">
+						<div class="jp-play-bar"><div class="jp-play-bar-node"></div></div>
+					</div>
+				</div>
+				<div class="jp-volume-bar">
+					<div class="jp-volume-bar-value"></div>
+				</div>
+
+				<div class="jp-time-holder">
+					<div class="jp-current-time"></div>
+					<div class="jp-duration"></div>
+
+					<ul class="jp-toggles">
+						<li><a href="javascript:;" class="jp-repeat" tabindex="1" title="repeat">repeat</a></li>
+						<li><a href="javascript:;" class="jp-repeat-off" tabindex="1" title="repeat off">repeat off</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script language="javascript" src="http://static.mp3.zdn.vn/skins/mp3_version3_05/js/swfobject.js"></script>
+<script language="javascript">
+	var flObject	= swfobject.getFlashPlayerVersion();
+	var isHtml5		= (location.search.indexOf('isHtml5') != -1) ? true : false;
+	var isDisHtml5	= false;
+	switch (true) {
+		case navigator.userAgent.indexOf('Firefox') > -1:
+			isDisHtml5	= true;
+			break;
+		case navigator.userAgent.indexOf('MSIE') > -1:
+			isDisHtml5	= true;
+			break;
+	}
+	if ((!isDisHtml5 && flObject.major == 0) || isHtml5) {
+		zm('#oplayer').remove();
+		zm('#_htmlPlayer').removeClass('none');
+		var HTML5_SKIN	= 'skins/jplayer_01';
+		document.write('<link href="http://static.mp3.zdn.vn/' + HTML5_SKIN + '/css/skin.css" rel="stylesheet" type="text/css" />');
+		zmCore.addScript('http://static.mp3.zdn.vn/' + HTML5_SKIN + '/js/jquery.min.js', function () {
+			zmCore.addScript('http://static.mp3.zdn.vn/' + HTML5_SKIN + '/js/jquery.jplayer.min.js', function () {
+				$("#jquery_jplayer_1").jPlayer({
+					ready: function () {
+						$(this).jPlayer("setMedia", {
+							mp3: "http://mp3.zing.vn/html5/song/LmxnTkGNzWACGNCyyFmLG"
+						});
+						$(this).jPlayer("play");
+					},
+					solution: "html",
+					supplied: "mp3"
+				});
+			});
+		});
+	}
+</script>
+	</div>
+	<div class="detail-function">
+	<script type="text/javascript">
+	    document.write('<ul id="tab-tooltip"><li><a title="Dịch vụ" id="_btnRingTone" class="wm active _btnTab" rel="_tabRingTone">Dịch vụ</a></li><li><a title="Thêm vào playlist" id="_btnAdd" pid="ZW6Z96IC" class="add _btnTab" rel="_tabPlaylist">Thêm</a></li><li><a id="_btnEmbed" class="emb _btnTab" rel="_tabEmbed">Embed</a></li><li><a  title="Báo lỗi - Góp ý" id="_btnReport" class="err _btnTab" rel="_tabReport">Báo lỗi</a></li></ul><div class="social"><a title="Chia sẻ lên Zing Me" class="izing" name="zm_share" href="#">Zing Me</a><a title="Chia sẻ lên Facebook" class="iface" href="#">Facebook</a><a title="Chia sẻ lên Google" class="igoogle" href="#">Google</a></div><a id="_btnLike" class="like" rel="_tabLike" rel_o="song" rel_t="7d5a5c16a33f4726cf613d9021450551" rel_k="72057595112474012" pid="ZW6Z96IC">Thích</a><p class="like-num none" id="_numberLikeBox"><span class="dialog"></span><a id="_numberLike" href="#">lượt thích</a></p><div class="tooltip add-tooltip none _tabContent" id="_tabLike"><a title="Đóng" class="close-box _closeTab" href="#" rel="_tabLike">Đóng</a><div class="one-three"><p>Thêm vào danh sách yêu thích</p><a id="0" class="button _addFavLike" rel="song" pid="ZW6Z96IC">Yêu thích</a></div><div class="one-three middle-child"><p>Thêm vào Playlist của bạn</p><select id="_lstPlsLike" class="select"></select><a id="_addPlsLike" class="button">Thêm</a></div><div class="one-three last-child"><p>Tạo một playlist mới</p><p><input type="text" value="" class="text-box" id="txtTitlePlsLikeZW6Z96IC" name="txtTitlePls" /><a id="_createPlsLikeZW6Z96IC" href="#" class="button _btnCreatePlsLike" rel="txtTitlePlsLikeZW6Z96IC">Tạo mới</a></p></div><div class="clear-fix"></div><div class="notification fail none _tabContent" id="_addLikeMsgBox"><b id="_addLikeMsg"></b><a id="_addLikeMsgC" title="Đóng" class="close"></a></div></div><div class="tooltip emb-tooltip none _tabContent" id="_tabEmbed"><a title="Đóng" class="close-box _closeTab" href="#" rel="_tabEmbed">Đóng</a><p><label>Nhúng blog:</label><input type="text" name="song" value="/bai-hat/Cho-Ngay-Mua-Tan-Noo-Phuoc-Thinh-Tonny-Viet/ZW6Z96IC.html" class="text-box _shr_txtBlg" readonly=""/></p><p><label>Nhúng forum:</label><input type="text" name="song" value="/bai-hat/Cho-Ngay-Mua-Tan-Noo-Phuoc-Thinh-Tonny-Viet/ZW6Z96IC.html" class="text-box _shr_txtFrm" readonly=""/></p><p><input type="checkbox" value="" class="check-box" id="shr_btnAut" />Tự động play<input type="checkbox" value="" class="check-box" id="shr_btnMubgr" />Nhạc nền<input type="hidden" id="_strAuto" value="http://mp3.zing.vn/blog?MjAxMy8wMy8yMi8yLzAvInagaMEMjBmNGZhMGYyMGM0MjEzYzI4NzVlZWU2OTQ5Y2QxNGMdUngWeBXAzfENo4WeBdUngdIE5nw6B5IE3GsGEgVGFdUngfE5vInagaMEWeByBQaMaw4WeBdUngWeBYyBUaOG7i25oIGZ0LiBUWeB25dUngeSBWaeG7h3R8MXwy" /><input type="hidden" id="_strNoAuto" value="http://mp3.zing.vn/blog?MjAxMy8wMy8yMi8yLzAvInagaMEMjBmNGZhMGYyMGM0MjEzYzI4NzVlZWU2OTQ5Y2QxNGMdUngWeBXAzfENo4WeBdUngdIE5nw6B5IE3GsGEgVGFdUngfE5vInagaMEWeByBQaMaw4WeBdUngWeBYyBUaOG7i25oIGZ0LiBUWeB25dUngeSBWaeG7h3R8fDI" /><input type="hidden" id="_strInfo" value="MTA3NDU0NjA3Nnx8mUsIC29dUngZ3x8NDMxODJkYmE5MDJhY2E5NjmUsIC4MWYwZjQwMjVkZDQzNmU" /></p></div><div class="tooltip add-tooltip none _tabContent" id="_tabPlaylist"><a href="#" class="close-box _closeTab" title="Đóng" rel="_tabPlaylist"></a><div class="one-three"><p>Thêm vào danh sách yêu thích</p><a id="0" class="button _addFav" rel="song">Yêu thích</a></div><div class="one-three middle-child"><p>Thêm vào Playlist của bạn</p><select id="_lstPls" class="select"></select><a id="_addPls" class="button">Thêm</a></div><div class="one-three last-child"><p>Tạo một playlist mới</p><p><input type="text" value="" class="text-box" id="txtTitlePlsZW6Z96IC" name="txtTitlePls" /><a id="_createPlsZW6Z96IC" href="#" class="button _btnCreatePls"rel="txtTitlePlsZW6Z96IC">Tạo mới</a></p></div><div class="notification fail none _tabContent" id="_addMsgBox"><b id="_addMsg"></b><a id="_addMsgC" title="Đóng" class="close"></a></div></div><div class="tooltip wm-tooltip _tabContent" id="_tabRingTone"><a href="#" class="close-box _closeTab" title="Đóng" rel="_tabRingTone">Đóng</a><div class="one-three gv-bgmusic"><a class="icon" title="Tải nhạc (Miễn phí)"></a><a id="_btnTab" class="button _btnTab" rel="_tabDown">Tải nhạc (Miễn phí)</a></div><div class="one-three middle-child dl-phonering"><a class="icon icon-disable _imusikBtn" title="Nhạc chờ VinaPhone" rel="IMSIK_" sname="Chờ Ngày Mưa Tan" aname="Noo Phước Thịnh ft. Tonny Việt" ></a><a class="button disable _imusikBtn" title="Nhạc chờ VinaPhone" rel="IMSIK_" sname="Chờ Ngày Mưa Tan" aname="Noo Phước Thịnh ft. Tonny Việt" >Nhạc chờ VinaPhone</a></div><div class="one-three gv-zme"><a class="icon _rbtBtnMe" title="Nhạc nền Zing Me" rel="ZRBTM_ZW6Z96IC" sname="Chờ Ngày Mưa Tan" aname="Noo Phước Thịnh ft. Tonny Việt"></a><a class="button _rbtBtnMe" title="Nhạc nền Zing Me" rel="ZRBTM_ZW6Z96IC" sname="Chờ Ngày Mưa Tan" aname="Noo Phước Thịnh ft. Tonny Việt">Nhạc nền Zing Me</a></div></div><div class="tooltip none _tabContent" id="_tabDown"><a href="#" class="close-box _closeTab" title="Đóng" rel="_tabDown">Đóng</a><div class="one-three dl-128kb"><a title="Tải nhạc 128Kb" href="http://mp3.zing.vn/download/song/Cho-Ngay-Mua-Tan-Noo-Phuoc-Thinh-Tonny-Viet/LHxGyLGNSQAXGNCyLFxtvGZG" class="icon _btnDownload" rel="/downloads/song/Cho-Ngay-Mua-Tan-Noo-Phuoc-Thinh-Tonny-Viet/128" target="_ifrTemp"></a><a title="Tải nhạc 128Kb" href="http://mp3.zing.vn/download/song/Cho-Ngay-Mua-Tan-Noo-Phuoc-Thinh-Tonny-Viet/LHxGyLGNSQAXGNCyLFxtvGZG" class="button _btnDownload"  rel="/downloads/song/Cho-Ngay-Mua-Tan-Noo-Phuoc-Thinh-Tonny-Viet/128" target="_ifrTemp">Tải nhạc 128Kb</a></div><div class="one-three middle-child dl-320kb"><a title="Tải nhạc 320Kb" href="#" class="icon icon-disable"></a><a title="Tải nhạc 320Kb" href="#" class="button disable">Tải nhạc 320Kb</a></div><div class="one-three dl-lossless"><a title="Tải nhạc Lossless" class="icon icon-disable"></a><a title="Tải nhạc Lossless" class="button disable">Tải nhạc Lossless</a></div><p class="vip-promo">Nâng cấp <a href="/vip"><b>Zing VIP</b></a> để download nhạc 320 kbps, lossless miễn phí không giới hạn và tận hưởng nhiều dịch vụ chất lượng cao khác từ Zing Mp3, giá ưu đãi cho tháng đầu tiên. <a href="/vip">Chi tiết tại đây</a></p></div><div class="tooltip err-tooltip none _tabContent" id="_tabReport"><a href="#" class="close-box _closeTab" title="Đóng" rel="_tabReport">Đóng</a><h6>Bạn gặp vấn đề gì khi nghe bài hát này?</h6><p><span><input type="radio" value="Play quá chậm" name="_reportType" id="_reportType2" /><label for="_reportType2">Play quá chậm.</label></span><span><input type="radio" value="Không play được" name="_reportType" id="_reportType1" /><label for="_reportType1">Không play được.</label></span><span><input type="radio" value="Chất lượng kém" name="_reportType" id="_reportType3" /><label for="_reportType3">Chất lượng kém.</label></span><span><input type="radio" value="Thông tin bài hát không đúng" name="_reportType" id="_reportType4" /><label for="_reportType4">Thông tin bài hát không đúng.</label></span><span><input type="radio" value="Lyrics chưa chính xác" name="_reportType" id="_reportType5" /><label for="_reportType5">Lyrics chưa chính xác.</label></span><span><input type="radio" value="Không download được" name="_reportType" id="_reportType8" /><label for="_reportType8">Không download được.</label></span><span><input type="radio" value="other" name="_reportType" rel="#_errorContent" id="_reportType9" /><label for="_reportType9">Lỗi khác.</label></span><textarea name="content" id="_errorContent" rows="7" cols="10" class="textarea none"></textarea><a href="#" id="_btnReportSubmit" class="button">Gửi báo lỗi</a></p><p class="notification success none _tabContent" id="_reportMsgBox"><b id="_reportMsg">Cám ơn ý kiến đóng góp của bạn. BQT Zing Mp3 tiếp nhận và sẽ giải quyết trong thời gian sớm nhất !</b><a id="_reportMsgC" title="Đóng" class="close"></a></p></div>');
+	</script>
+	</div>
+	<div class="like-info">
+	</div>
+	<div class="content-block lyric-content" id="_lyricContainer">
+		<div id="_lyricContainerZW6Z96IC">
+		<div id="_lyricZW6Z96IC_0" class="_lyricItem ">
+		<div class="oLyric">
+			<span id="_lyricNavZW6Z96IC_0">
+				<a href="" class="next-lyric _lyricNav " title="Sau" rel="_lyricZW6Z96IC_1">Sau</a><b>Phiên bản 1/3</b>			</span>
+					</div>
+		<h3><strong><span class="seo">Lời bài hát </span>Chờ Ngày Mưa Tan</strong></h3>
+		<p class="_lyricContent rows4" expand="rows4"><span class="lyric-author">Đóng góp: <span rel="ZMED_Freshy89?l=2"></span></span>
+			Một ngày mưa và em khuất xa nơi anh, bóng dáng cứ phai dần<br />
+Phải bao lâu anh mới quên được em?<br />
+Từng ngày cứ lặng lẽ bước qua đời anh, thế nhưng giờ tim vẫn đau nhói<br />
+Vì ai ..nỗi đau không nhạt phai<br />
+<br />
+Và dòng ký ức ghé qua, mỗi đêm dài cạnh bên với anh<br />
+Tỉnh dậy, đôi mắt hoen đi vì khóc...<br />
+Ước mơ của chúng ta ..chỉ một cơn mưa đã cuốn trôi tất cả<br />
+Chiều mưa ...chiều mưa khiến yêu thương lạnh giá.<br />
+<br />
+ĐK<br />
+Tại sao em lại quay bước đi?<br />
+Tại sao ko thể ngừng nhớ em?<br />
+Dù cho em...chính em rời xa <br />
+Và anh sẽ chờ một  giấc mơ <br />
+Nắng sẽ về khiến mưa trôi xa, nhẹ nhàng<br />
+Cơn gió khẽ mang em về bên anh		</p>
+	</div>
+		</div>
+		<p class="seo">
+	    Bài hát <a title="Cho Ngay Mua Tan" href="/tim-kiem/bai-hat.html?q=Cho+Ngay+Mua+Tan">Cho Ngay Mua Tan</a> do nhạc sĩ <a title="Trung Duc" href="/tim-kiem/bai-hat.html?q=Trung+Duc&t=composer">Trung Duc</a> sáng tác, trình bày bởi ca sĩ <a title="Tìm bài hát, MV, album của ca sĩ Noo Phuoc Thinh ft. Tonny Viet" href="/tim-kiem/bai-hat.html?q=Noo+Phuoc+Thinh+ft.+Tonny+Viet&t=artist">Noo Phuoc Thinh ft. Tonny Viet</a> thuộc thể loại <a href="/the-loai-bai-hat/Viet-Nam/IWZ9Z08I.html" title="Xem the loai Viet Nam" class="txtBlue">Viet Nam</a>, <a href="/the-loai-bai-hat/Nhac-Tre/IWZ9Z088.html" title="Xem the loai Nhac Tre" class="txtBlue">Nhac Tre</a>	</p>
+	<p class="seo">
+	    Bạn có thể cài đặt nhạc chờ (mạng mobifone, vinaphone, viettel), tải nhạc chuông, set nhạc nền Zing Me ca khúc <a title="Cho Ngay Mua Tan" href="/tim-kiem/bai-hat.html?q=Cho+Ngay+Mua+Tan">Cho Ngay Mua Tan</a> - <a title="Tìm bài hát, MV, album của ca sĩ Noo Phuoc Thinh ft. Tonny Viet" href="/tim-kiem/bai-hat.html?q=Noo+Phuoc+Thinh+ft.+Tonny+Viet&t=artist">Noo Phuoc Thinh ft. Tonny Viet</a> ngay trên Zing Mp3. Nâng cấp tài khoản lên Zing VIP để tải nhạc chất lượng cao, lossless.
+	</p>
+	 <div class="iLyric">
+		 <a rel="._lyricContent" class="read-all _viewMore">Xem toàn bộ</a>		 <span id="_lyricNoteZW6Z96IC">			 
+	Đóng góp lời bài hát chính xác hơn <a class="_lyricNewBtn" rel=_lyricNewBoxZW6Z96IC title="Đóng góp lời bài hát">tại đây</a>.		 </span>
+		 <div id="_lyricMsgBoxZW6Z96IC" class="notification none">
+			 <b id="_lyricMsgZW6Z96IC"></b>
+			<a class="close _lyricMsgC" title="Đóng" rel="_lyricMsgBoxZW6Z96IC"></a>
+		</div>
+		 <div id="_lyricNewBoxZW6Z96IC" class="none">
+			 <textarea id="_lyricContentZW6Z96IC" class="textarea" cols="10" rows="7" oid="ZW6Z96IC"></textarea>
+			<a class="button _lyricSubmit" rel="ZW6Z96IC">Đóng góp</a>
+		 </div>
+	</div>
+</div>
+		<div class="content-block singer-info">
+		<h2 class="content-block-title"><a title="Noo Phước Thịnh" href="/tim-kiem/bai-hat.html?q=Noo+Ph%C6%B0%E1%BB%9Bc+Th%E1%BB%8Bnh">Noo Phước Thịnh</a></h2>
+<div class="singer-info-block" id="_boxArtistInfo">	
+	<span class="singer-image"><a href="/nghe-si/Noo-Phuoc-Thinh"><img src="http://image.mp3.zdn.vn/thumb/165_165/avatars/a/c/acac606ea8ccc82446d3111736734a9f_1353582559.jpg" alt="Noo Phước Thịnh" width="110" height="110" /></a></span>	
+	<span class="singer-site"><a title="Noo Phước Thịnh" class="button" href="/nghe-si/Noo-Phuoc-Thinh">Trang cá nhân</a></span>
+	<p><span>Tên thật:</span> Nguyễn Phước Thịnh</p>
+		<p><span>Ngày sinh:</span> 18/12 - <span>Quốc gia: </span>Việt Nam</p>
+			<p><span>Công ty đại diện:</span> Ca sĩ Tự Do</p>
+			<p id="_artistBio" class="rows2" expand="rows2">Trước khi trở thành ca sỹ, <a title="Noo Phước Thịnh" href="/tim-kiem/bai-hat.html?q=Noo+Ph%C6%B0%E1%BB%9Bc+Th%E1%BB%8Bnh" target="_blank"><strong>Noo Phước Thịnh</strong></a> (Noo) là một người mẫu được giới teen yêu thích với mật độ xuất hiện nhiều trên các trang báo học đường. Sở hữu khuôn mặt điển trai, nụ cười tươi tắn và tính cách thân thiện dễ gần, chàng người mẫu này hứa hẹn sẽ còn thành công hơn nữa trong làng người mẫu. <br />
+<br />
+Nhưng thật bất ngờ, ngay cả với Noo cũng không nghĩ là một ngày nào đó mình sẽ trở thành ca sỹ, thật tình cờ khi anh được người quản lý hiện tại là Tuấn Khanh phát hiện ra giọng hát của mình trong một show quảng cáo khi vô tình nghe Noo hát, anh nhận thấy rằng Noo rất có năng khiếu và có triển vọng trở thành ca sỹ. <br />
+<br />
+Chính cuộc gặp gỡ này đã đưa Noo bắt đầu bước chân vào lĩnh vực ca hát.Noo, mặc dù rất yêu nhạc Trịnh nhưng anh lại hướng đến dòng nhạc trẻ dành cho giới teen, đó chính là cách để Noo đến được với khán giả nhanh nhất và thực tế chứng minh anh đã lựa chọn đúng và điều đó được khẳng định bằng những ca khúc được giới trẻ ưa chuộng như “Nếu”; “100% yêu em” và thành công hơn cả là ca khúc nhạc Hàn “Mất em”. Các ca khúc này đã đưa tên tuổi Noo luôn đứng đầu các bảng xếp hạng âm nhạc, được click nhiều nhất trên các trang nghe nhạc đồng thời dẫn đầu bảng xếp hạng tháng 10 và 11 trên thị trường nhạc chờ dành cho điện thoại di động . <br />
+<br />
+Hơn nữa mặc dù mới tham gia vào lĩnh vực ca hát nhưng Noo sở hữu một lượng fans rất lớn, họ luôn ủng hộ anh trên con đường nghệ thuật mà Noo đã chọn.Để đáp lại tình cảm yêu mến của khán giả dành cho mình,Noo luôn nỗ lực không ngừng, làm việc nghiêm túc và sẽ được khẳng định bằng album đầu tay với chủ đề không tên rất lạ "... " Đây cũng là dấu để ngỏ dành cho sự đánh giá cảm nhận của khán giả.<br />
+<br />
+Các album đã phát hành:<br />
+1. Album Ba chấm<br />
+2. Single Đổi thay<br />
+3. Single Nỗi nhớ đầy vơi<br />
+4. Album "lạc bước trong đêm" phát hành ngày 21/11/2011<br />
+5. Mini album EM phát hành ngày 22/11/2012</p>
+		<p style="clear:both;"><a class="read-all _viewMore" rel="#_artistBio" href="#">Xem toàn bộ</a> |  <a id="_btnProfileChg" rel="IWZ9ZUU6" href="#">Đóng góp</a> | <a href="http://news.zing.vn/search.html?q=Noo+Ph%C6%B0%E1%BB%9Bc+Th%E1%BB%8Bnh" target="_blank" rel="nofollow" title="Xem tin tức liên quan đến ca sĩ Noo Phước Thịnh">Xem tin tức Noo Phước Thịnh</a></p>	
+		<div class="same-singer">
+		<h4>Nghệ sĩ tương tự</h4>
+					<div class="content-item ">
+				<a class="singer-img _trackLink" href="/nghe-si/V-Music" tracking="_frombox=playvideo_sameartist"><img width="50" height="50" alt="V.Music" src="http://image.mp3.zdn.vn/thumb/94_94/avatars/f/b/fbf8735212f7c14aefe0136a4c920820_1361869555.jpg"/></a>
+				<div class="meta">
+					<h3><a class="_trackLink" href="/nghe-si/V-Music" tracking="_frombox=playvideo_sameartist">V.Music</a></h3>
+				</div>
+			</div>
+					<div class="content-item ">
+				<a class="singer-img _trackLink" href="/nghe-si/Ho-Ngoc-Ha" tracking="_frombox=playvideo_sameartist"><img width="50" height="50" alt="Hồ Ngọc Hà" src="http://image.mp3.zdn.vn/thumb/94_94/avatars/8/0/801606e2af39c48c6aff5f88c300cf8a_1341636815.jpg"/></a>
+				<div class="meta">
+					<h3><a class="_trackLink" href="/nghe-si/Ho-Ngoc-Ha" tracking="_frombox=playvideo_sameartist">Hồ Ngọc Hà</a></h3>
+				</div>
+			</div>
+					<div class="content-item ">
+				<a class="singer-img _trackLink" href="/nghe-si/Cao-Thai-Son" tracking="_frombox=playvideo_sameartist"><img width="50" height="50" alt="Cao Thái Sơn" src="http://image.mp3.zdn.vn/thumb/94_94/avatars/5/6/56d12b4fb68efcbb8c275cc2b5065da6_1357198482.jpg"/></a>
+				<div class="meta">
+					<h3><a class="_trackLink" href="/nghe-si/Cao-Thai-Son" tracking="_frombox=playvideo_sameartist">Cao Thái Sơn</a></h3>
+				</div>
+			</div>
+					<div class="content-item ">
+				<a class="singer-img _trackLink" href="/nghe-si/Nguyen-Vu" tracking="_frombox=playvideo_sameartist"><img width="50" height="50" alt="Nguyên Vũ" src="http://image.mp3.zdn.vn/thumb/94_94/avatars/3/f/3f57513ab0aa6053461997b31f164086_1293896044.jpg"/></a>
+				<div class="meta">
+					<h3><a class="_trackLink" href="/nghe-si/Nguyen-Vu" tracking="_frombox=playvideo_sameartist">Nguyên Vũ</a></h3>
+				</div>
+			</div>
+					<div class="content-item ">
+				<a class="singer-img _trackLink" href="/nghe-si/Khac-Viet.IWZ9ZB76" tracking="_frombox=playvideo_sameartist"><img width="50" height="50" alt="Khắc Việt" src="http://image.mp3.zdn.vn/thumb/94_94/avatars/b/e/befadf3d6d331829a34c0fe7f0ed2f25_1365605315.jpg"/></a>
+				<div class="meta">
+					<h3><a class="_trackLink" href="/nghe-si/Khac-Viet.IWZ9ZB76" tracking="_frombox=playvideo_sameartist">Khắc Việt</a></h3>
+				</div>
+			</div>
+					<div class="content-item last-child">
+				<a class="singer-img _trackLink" href="/nghe-si/Akira-Phan" tracking="_frombox=playvideo_sameartist"><img width="50" height="50" alt="Akira Phan" src="http://image.mp3.zdn.vn/thumb/94_94/avatars/7/c/7c4ed8ec5e9a730fd05ebdee4008c1cf_1329292534.jpg"/></a>
+				<div class="meta">
+					<h3><a class="_trackLink" href="/nghe-si/Akira-Phan" tracking="_frombox=playvideo_sameartist">Akira Phan</a></h3>
+				</div>
+			</div>
+			</div>
+</div>		<div class="singer-item singer-album">
+	<h2 class="singer-item-title"><a href="/tim-kiem/playlist.html?q=Noo+Ph%C6%B0%E1%BB%9Bc+Th%E1%BB%8Bnh" title="Tìm album của Noo Phước Thịnh">Album Noo Phước Thịnh</a></h2>
+			<div class="content-item ">
+			<a title="Chờ Ngày Mưa Tan (Single) - Noo Phước Thịnh ft. Tonny Việt" href="/album/Cho-Ngay-Mua-Tan-Single-Noo-Phuoc-Thinh-Tonny-Viet/ZWZAAIWZ.html" class="album-img _trackLink" tracking="_frombox=playsong_artistalbum" ><img src="http://image.mp3.zdn.vn/thumb/94_94/covers/4/b/4ba28df2394a31dd51450ef5666aee39_1365395021.jpg" width="94" height="94" alt="Chờ Ngày Mưa Tan (Single) - Noo Phước Thịnh ft. Tonny Việt" /></a>
+			<div class="meta">
+				<h3><a title="Chờ Ngày Mưa Tan (Single) - Noo Phước Thịnh ft. Tonny Việt" href="/album/Cho-Ngay-Mua-Tan-Single-Noo-Phuoc-Thinh-Tonny-Viet/ZWZAAIWZ.html" class="_trackLink" tracking="_frombox=playsong_artistalbum">Chờ Ngày Mưa Tan (Single)</a></h3>
+				<span><a href="/tim-kiem/bai-hat.html?q=Noo+Ph%C6%B0%E1%BB%9Bc+Th%E1%BB%8Bnh+ft.+Tonny+Vi%E1%BB%87t&t=artist" title="Tìm bài hát của Noo Phước Thịnh ft. Tonny Việt" class="txtBlue">Noo Phước Thịnh ft. Tonny Việt</a></span>
+			</div>
+		</div>
+				<div class="content-item ">
+			<a title="Vút Bay (Single) - Thanh Bùi ft. Đông Nhi ft. Ông Cao Thắng ft. 365DaBand ft. Mr.T ft. Yanbi ft. JustaTee ft. Cường Seven ft. Kimmese ft. Noo Phước Thịnh ft. Vân Trang ft. Sĩ Thanh ft. Thanh Tâm (Tâm Tít)" href="/album/Vut-Bay-Single-Thanh-Bui-Dong-Nhi-Ong-Cao-Thang-365DaBand-Mr-T-Yanbi-JustaTee-Cuong-Seven-Kimmese-Noo-Phuoc-Thinh-Van-Trang-Si-Thanh-Thanh-Tam-Tam-Tit/ZWZA96WI.html" class="album-img _trackLink" tracking="_frombox=playsong_artistalbum" ><img src="http://image.mp3.zdn.vn/thumb/94_94/covers/2/9/29c4786e7749aabd8f057bce53565cdc_1363609304.jpg" width="94" height="94" alt="Vút Bay (Single) - Thanh Bùi ft. Đông Nhi ft. Ông Cao Thắng ft. 365DaBand ft. Mr.T ft. Yanbi ft. JustaTee ft. Cường Seven ft. Kimmese ft. Noo Phước Thịnh ft. Vân Trang ft. Sĩ Thanh ft. Thanh Tâm (Tâm Tít)" /></a>
+			<div class="meta">
+				<h3><a title="Vút Bay (Single) - Thanh Bùi ft. Đông Nhi ft. Ông Cao Thắng ft. 365DaBand ft. Mr.T ft. Yanbi ft. JustaTee ft. Cường Seven ft. Kimmese ft. Noo Phước Thịnh ft. Vân Trang ft. Sĩ Thanh ft. Thanh Tâm (Tâm Tít)" href="/album/Vut-Bay-Single-Thanh-Bui-Dong-Nhi-Ong-Cao-Thang-365DaBand-Mr-T-Yanbi-JustaTee-Cuong-Seven-Kimmese-Noo-Phuoc-Thinh-Van-Trang-Si-Thanh-Thanh-Tam-Tam-Tit/ZWZA96WI.html" class="_trackLink" tracking="_frombox=playsong_artistalbum">Vút Bay (Single)</a></h3>
+				<span><a href="/tim-kiem/bai-hat.html?q=Thanh+B%C3%B9i+ft.+%C4%90%C3%B4ng+Nhi+ft.+%C3%94ng+Cao+Th%E1%BA%AFng+ft.+365DaBand+ft.+Mr.T+ft.+Yanbi+ft.+JustaTee+ft.+C%C6%B0%E1%BB%9Dng+Seven+ft.+Kimmese+ft.+Noo+Ph%C6%B0%E1%BB%9Bc+Th%E1%BB%8Bnh+ft.+V%C3%A2n+Trang+ft.+S%C4%A9+Thanh+ft.+Thanh+T%C3%A2m+%28T%C3%A2m+T%C3%ADt%29&t=artist" title="Tìm bài hát của Thanh Bùi ft. Đông Nhi ft. Ông Cao Thắng ft. 365DaBand ft. Mr.T ft. Yanbi ft. JustaTee ft. Cường Seven ft. Kimmese ft. Noo Phước Thịnh ft. Vân Trang ft. Sĩ Thanh ft. Thanh Tâm (Tâm Tít)" class="txtBlue">Nhiều Ca Sĩ</a></span>
+			</div>
+		</div>
+				<div class="content-item ">
+			<a title="Em (The Mini Album) - Noo Phước Thịnh" href="/album/Em-The-Mini-Album-Noo-Phuoc-Thinh/ZWZA6OIE.html" class="album-img _trackLink" tracking="_frombox=playsong_artistalbum" ><img src="http://image.mp3.zdn.vn/thumb/94_94/covers/e/8/e81085d585f7fc1bfa9417e3bb901324_1353582961.jpg" width="94" height="94" alt="Em (The Mini Album) - Noo Phước Thịnh" /></a>
+			<div class="meta">
+				<h3><a title="Em (The Mini Album) - Noo Phước Thịnh" href="/album/Em-The-Mini-Album-Noo-Phuoc-Thinh/ZWZA6OIE.html" class="_trackLink" tracking="_frombox=playsong_artistalbum">Em (The Mini Album)</a></h3>
+				<span><a href="/tim-kiem/bai-hat.html?q=Noo+Ph%C6%B0%E1%BB%9Bc+Th%E1%BB%8Bnh&t=artist" title="Tìm bài hát của Noo Phước Thịnh" class="txtBlue">Noo Phước Thịnh</a></span>
+			</div>
+		</div>
+				<div class="content-item ">
+			<a title="Tìm Em Trong Ký Ức (Single) - Noo Phước Thịnh" href="/album/Tim-Em-Trong-Ky-Uc-Single-Noo-Phuoc-Thinh/ZWZAU69U.html" class="album-img _trackLink" tracking="_frombox=playsong_artistalbum" ><img src="http://image.mp3.zdn.vn/thumb/94_94/covers/0/e/0e6ceb60f805b574bfdffb637251fd74_1348550800.jpg" width="94" height="94" alt="Tìm Em Trong Ký Ức (Single) - Noo Phước Thịnh" /></a>
+			<div class="meta">
+				<h3><a title="Tìm Em Trong Ký Ức (Single) - Noo Phước Thịnh" href="/album/Tim-Em-Trong-Ky-Uc-Single-Noo-Phuoc-Thinh/ZWZAU69U.html" class="_trackLink" tracking="_frombox=playsong_artistalbum">Tìm Em Trong Ký Ức (Single)</a></h3>
+				<span><a href="/tim-kiem/bai-hat.html?q=Noo+Ph%C6%B0%E1%BB%9Bc+Th%E1%BB%8Bnh&t=artist" title="Tìm bài hát của Noo Phước Thịnh" class="txtBlue">Noo Phước Thịnh</a></span>
+			</div>
+		</div>
+				<div class="content-item last-child">
+			<a title="Ước Mơ Tôi - Noo Phước Thịnh" href="/album/Uoc-Mo-Toi-Noo-Phuoc-Thinh/ZWZAWW8A.html" class="album-img _trackLink" tracking="_frombox=playsong_artistalbum" ><img src="http://image.mp3.zdn.vn/thumb/94_94/covers/7/b/7bcf6edf2e6b9d973378c27b4c1dd15e_1341548103.jpg" width="94" height="94" alt="Ước Mơ Tôi - Noo Phước Thịnh" /></a>
+			<div class="meta">
+				<h3><a title="Ước Mơ Tôi - Noo Phước Thịnh" href="/album/Uoc-Mo-Toi-Noo-Phuoc-Thinh/ZWZAWW8A.html" class="_trackLink" tracking="_frombox=playsong_artistalbum">Ước Mơ Tôi</a></h3>
+				<span><a href="/tim-kiem/bai-hat.html?q=Noo+Ph%C6%B0%E1%BB%9Bc+Th%E1%BB%8Bnh&t=artist" title="Tìm bài hát của Noo Phước Thịnh" class="txtBlue">Noo Phước Thịnh</a></span>
+			</div>
+		</div>
+				<div class="clear-fix"></div>
+</div>
+<div class="singer-item singer-video">
+	<h2 class="singer-item-title"><a href="/tim-kiem/video.html?q=Noo+Ph%C6%B0%E1%BB%9Bc+Th%E1%BB%8Bnh" title="Tìm video của Noo Phước Thịnh">Video Clip, MV Noo Phước Thịnh</a></h2>
+			<div class="content-item ">
+			<a href="/video-clip/Vut-Bay-Young-Generation-Thanh-Bui-Noo-Phuoc-Thinh-Dong-Nhi-Ong-Cao-Thang-Si-Thanh-Thanh-Tam-Tam-Tit-365DaBand-JustaTee-Kimmese-Mr-T/ZW6ZZ8F0.html" title="Vút Bay (Young Generation) - Thanh Bùi  ft.  Noo Phước Thịnh  ft.  Đông Nhi  ft.  Ông Cao Thắng  ft.  Sĩ Thanh  ft.  Thanh Tâm (Tâm Tít)  ft.  365DaBand  ft.  JustaTee  ft.  Kimmese  ft.  Mr.T" class="video-img _trackLink" tracking="_frombox=playsong_artistvideo"><img src="http://image.mp3.zdn.vn/thumb/128_72/thumb_video/a/0/a07369f0e1abbb15792330ba2b6ca58d_1366879447.jpg" width="128" height="72" alt="Vút Bay (Young Generation) - Thanh Bùi  ft.  Noo Phước Thịnh  ft.  Đông Nhi  ft.  Ông Cao Thắng  ft.  Sĩ Thanh  ft.  Thanh Tâm (Tâm Tít)  ft.  365DaBand  ft.  JustaTee  ft.  Kimmese  ft.  Mr.T" /></a>
+			<div class="meta">
+				<h3><a href="/video-clip/Vut-Bay-Young-Generation-Thanh-Bui-Noo-Phuoc-Thinh-Dong-Nhi-Ong-Cao-Thang-Si-Thanh-Thanh-Tam-Tam-Tit-365DaBand-JustaTee-Kimmese-Mr-T/ZW6ZZ8F0.html" title="Vút Bay (Young Generation) - Thanh Bùi  ft.  Noo Phước Thịnh  ft.  Đông Nhi  ft.  Ông Cao Thắng  ft.  Sĩ Thanh  ft.  Thanh Tâm (Tâm Tít)  ft.  365DaBand  ft.  JustaTee  ft.  Kimmese  ft.  Mr.T" class="_trackLink" tracking="_frombox=playsong_artistvideo">Vút Bay (Young Generation)</a></h3>
+				<span><a href="/tim-kiem/bai-hat.html?q=Thanh+B%C3%B9i++ft.++Noo+Ph%C6%B0%E1%BB%9Bc+Th%E1%BB%8Bnh++ft.++%C4%90%C3%B4ng+Nhi++ft.++%C3%94ng+Cao+Th%E1%BA%AFng++ft.++S%C4%A9+Thanh++ft.++Thanh+T%C3%A2m+%28T%C3%A2m+T%C3%ADt%29++ft.++365DaBand++ft.++JustaTee++ft.++Kimmese++ft.++Mr.T&t=artist" title="Tìm bài hát của Thanh Bùi  ft.  Noo Phước Thịnh  ft.  Đông Nhi  ft.  Ông Cao Thắng  ft.  Sĩ Thanh  ft.  Thanh Tâm (Tâm Tít)  ft.  365DaBand  ft.  JustaTee  ft.  Kimmese  ft.  Mr.T" class="txtBlue">Nhiều Ca Sĩ</a></span>
+			</div>
+		</div>
+				<div class="content-item ">
+			<a href="/video-clip/Cho-Ngay-Mua-Tan-Noo-Phuoc-Thinh-Tonny-Viet/ZW6Z96IC.html" title="Chờ Ngày Mưa Tan - Noo Phước Thịnh ft. Tonny Việt" class="video-img _trackLink" tracking="_frombox=playsong_artistvideo"><img src="http://image.mp3.zdn.vn/thumb/128_72/thumb_video/b/1/b1e854a15f952be085411e8629e34527_1364795848.jpg" width="128" height="72" alt="Chờ Ngày Mưa Tan - Noo Phước Thịnh ft. Tonny Việt" /></a>
+			<div class="meta">
+				<h3><a href="/video-clip/Cho-Ngay-Mua-Tan-Noo-Phuoc-Thinh-Tonny-Viet/ZW6Z96IC.html" title="Chờ Ngày Mưa Tan - Noo Phước Thịnh ft. Tonny Việt" class="_trackLink" tracking="_frombox=playsong_artistvideo">Chờ Ngày Mưa Tan</a></h3>
+				<span><a href="/tim-kiem/bai-hat.html?q=Noo+Ph%C6%B0%E1%BB%9Bc+Th%E1%BB%8Bnh+ft.+Tonny+Vi%E1%BB%87t&t=artist" title="Tìm bài hát của Noo Phước Thịnh ft. Tonny Việt" class="txtBlue">Noo Phước Thịnh ft. Tonny Việt</a></span>
+			</div>
+		</div>
+				<div class="content-item ">
+			<a href="/video-clip/Xuan-Ca-Noo-Phuoc-Thinh/ZW6U8BFA.html" title="Xuân Ca - Noo Phước Thịnh" class="video-img _trackLink" tracking="_frombox=playsong_artistvideo"><img src="http://image.mp3.zdn.vn/thumb/128_72/thumb_video/7/a/7ae4595fe31aa4925629109b972c8b09_1360065078.jpg" width="128" height="72" alt="Xuân Ca - Noo Phước Thịnh" /></a>
+			<div class="meta">
+				<h3><a href="/video-clip/Xuan-Ca-Noo-Phuoc-Thinh/ZW6U8BFA.html" title="Xuân Ca - Noo Phước Thịnh" class="_trackLink" tracking="_frombox=playsong_artistvideo">Xuân Ca</a></h3>
+				<span><a href="/tim-kiem/bai-hat.html?q=Noo+Ph%C6%B0%E1%BB%9Bc+Th%E1%BB%8Bnh&t=artist" title="Tìm bài hát của Noo Phước Thịnh" class="txtBlue">Noo Phước Thịnh</a></span>
+			</div>
+		</div>
+				<div class="content-item last-child">
+			<a href="/video-clip/Chot-Thay-Em-Khoc-Noo-Phuoc-Thinh/ZW6OA87B.html" title="Chợt Thấy Em Khóc - Noo Phước Thịnh" class="video-img _trackLink" tracking="_frombox=playsong_artistvideo"><img src="http://image.mp3.zdn.vn/thumb/128_72/thumb_video/9/9/99b03e6676592ee83fc6948f1a6e2582_1356057273.jpg" width="128" height="72" alt="Chợt Thấy Em Khóc - Noo Phước Thịnh" /></a>
+			<div class="meta">
+				<h3><a href="/video-clip/Chot-Thay-Em-Khoc-Noo-Phuoc-Thinh/ZW6OA87B.html" title="Chợt Thấy Em Khóc - Noo Phước Thịnh" class="_trackLink" tracking="_frombox=playsong_artistvideo">Chợt Thấy Em Khóc</a></h3>
+				<span><a href="/tim-kiem/bai-hat.html?q=Noo+Ph%C6%B0%E1%BB%9Bc+Th%E1%BB%8Bnh&t=artist" title="Tìm bài hát của Noo Phước Thịnh" class="txtBlue">Noo Phước Thịnh</a></span>
+			</div>
+		</div>
+				<div class="clear-fix"></div>
+</div>
+
+	</div>
+		<a id="_comment" name="comment"></a>
+<div class="content-block comment">
+		<p class="content-block-title">Bình luận <span class="comment-counter" id="_commentCounter"></span></p>
+	<div id="_commentNotiBox">
+		<p class="notification attention">
+			Chỉ chấp nhận bình luận bằng tiếng Việt có dấu, những bình luận sai <a class="blue12" target="_blank" href="http://mp3.zing.vn/huong-dan/Cong-dong/25.html">qui định</a> sẽ bị xóa.
+			<a id="_commnetNotiBtnC" title="Đóng" class="close"></a>
+		</p>
+	</div>	
+	<div id="_msgCommentDiv"></div>
+	<div id="_errCommentDiv"></div>
+	<div class="comment-form">
+		<div class="avatar" style="background: url(http://avatar.me.zdn.vn/zme_noavatar50.png) no-repeat scroll 2px 2px;">
+			<span rel="ZMEA_afafojaljgfajkfm?size=50&width=50&height=50&l=2"></span>
+		</div>
+			<p>
+				<textarea name="_txtComment" id="_txtComment" cols="10" rows="3" class="comment-textarea" oid="ZW6Z96IC.html">Hãy chia sẻ cảm nghĩ của bạn về bài hát này.</textarea>
+			</p>
+			<p>
+				<a id="_btnCommentSubmit" class="button">Bình luận</a>
+				<span>Nhấn Shift + Enter để xuống dòng. Bình luận phải dài hơn 50 ký tự.</span>
+				<span id="_commentChars" class="comment-char">0 ký tự</span>
+			</p>
+	</div><!--End .comment-form -->
+	<div id="_commentList" cpage="" tpage="" oid="ZW6Z96IC.html" otype="song">
+	</div>
+	<div class="paging">
+		<ul id="_pagination" class="pagination txtRight pdright10 fright">
+		</ul>
+	</div>
+</div></div>				<div class="sidebar">
+										<!--Start .ads --><div class="_bannerAds"><div class="ads">
+<script language="javascript">
+	if (MP3.BANNER_OFF != 1) {
+		document.writeln('<div class="right-banner _adsCol">');
+		document.writeln('<div id="_mp3_adsZoneRight1" class="_adsZone ads-300-250"></div>');
+		document.writeln('</div>');
+	}
+</script>
+
+<script language="javascript">
+	if (MP3.BANNER_OFF != 1) {
+		document.writeln('<div class="right-banner _adsCol">');
+		document.writeln('<div id="_mp3_adsZoneRight2" class="_adsZone ads-300-250"></div>');
+		document.writeln('</div>');
+	}
+</script>
+
+<script language="javascript">
+	if (MP3.BANNER_OFF != 1) {
+		document.writeln('<div class="right-banner _adsCol">');
+		document.writeln('<div id="_mp3_adsZoneRight3" class="_adsZone ads-300-100"></div>');
+		document.writeln('</div>');
+	}
+</script>
+</div></div><!--End .ads -->					
+<div id="_suggestS0"></div>				</div>
+			</div>
+			<div class="footer">
+				
+            <div class="footer-info">
+                <div class="link-group">
+                    <p class="link-group-title">ZING MP3</p>
+                    <ul>
+                       <li><a href="/huong-dan/About-Zing-Mp3/17.html">Giới thiệu</a></li>
+                       <li><a href="/huong-dan/Tuyen-dung/29.html">Tuyển dụng</a></li>
+                       <li><a href="/huong-dan/Qui-dinh/30.html">Điều khoản sử dụng</a></li>
+                       <li><a href="/huong-dan/Qui-dinh/30.html">Chính sách riêng tư</a></li>
+                    </ul>
+                </div><!--End .link-group -->
+                <div class="link-group">
+                    <p class="link-group-title">MỞ RỘNG</p>
+                    <ul>
+                       <li><a href="/huong-dan/Zing-Mp3-APIs/36.html">APIs</a></li>
+                       <li><a href="#">Feed</a></li>
+                       <li><a href="#">RSS</a></li>
+                    </ul>
+                </div><!--End .link-group -->
+                <div class="link-group">
+                    <p class="link-group-title">FOLLOW US</p>
+                    <ul>
+                       <li><a href="http://me.zing.vn/mp3" target="_blank">Zing Me</a></li>
+                       <li><a href="http://www.facebook.com/zingmp3" target="_blank">Facebook</a></li>
+                       <li><a href="http://youtube.com/zingmp3" target="_blank">Youtube</a></li>
+                       <li><a href="http://twitter.com/zingmp3" target="_blank">Twitter</a></li>
+                    </ul>
+                </div><!--End .link-group -->
+                <div class="link-group">
+                    <p class="link-group-title">TRỢ GIÚP</p>
+                    <ul>
+                       <li><a href="/huong-dan/index.html">FAQs</a></li>
+                       <li><a class="_feedBackBtn">Góp ý - Báo lỗi</a></li>
+                    </ul>
+                </div><!--End .link-group -->
+                <div class="link-group">
+                    <p class="link-group-title">DỊCH VỤ</p>
+                    <ul>
+                       <li><a href="/vip" target="_blank">Zing VIP</a></li>
+                       <li><a href="http://ads.zing.vn/home/services/display/1/Zing-Mp3" target="_blank">Quảng cáo</a></li>
+                    </ul>
+                </div><!--End .link-group -->
+                <div class="link-group last-child">
+                    <p class="link-group-title">PHIÊN BẢN MOBILE</p>
+                    <ul>
+                       <li><a href="http://3g.zing.vn/zme/zme_android.html" title="Zing Mp3 Android" target="_blank">Android</a></li>
+                       <li><a href="http://3g.zing.vn/zme/zme_iphone.html" title="Zing Mp3 iPhone" target="_blank">iPhone</a></li>
+                       <li><a href="http://3g.zing.vn/mp3/mp3_nokia.html" title="Zing Mp3 Nokia" target="_blank">Nokia</a></li>
+                       <li><a href="http://m.mp3.zing.vn" title="Zing Mp3 Mobile Web" target="_blank">Mobile Web</a></li>
+                    </ul>
+                </div><!--End .link-group -->
+            </div><!--End .footer-info -->
+
+            <p class="copyright">Copyright © Zing<span>Đơn vị chủ quản: VNG Corporation</span><span>Giấy phép MXH số 05-GXN-TTDT.</span></p>
+            <p class="author">Một sản phẩm của <span>Zing</span></p>				<iframe name="_ifrTemp" id="_ifrTemp" style="width: 0px; height: 0px" frameborder="0"></iframe>
+			</div>
+			<div class="fixed-function">
+				<a title="Góp ý - Báo lỗi" class="_feedBackBtn feedback">Góp ý</a>
+				<div class="facebook-like">
+					<div id="fb-root"></div>
+					<div data-font="tahoma" data-show-faces="false" data-width="450" data-layout="box_count" data-send="false" data-href="http://www.facebook.com/zingmp3" class="fb-like"></div>
+				</div>
+				<div class="zme-like">
+					<div id="zme-root"></div>
+					<div class="zme-subscribe _zmeLike" id="_zmeLike" data-layout="small" data-height="63" data-width="450" data-profile="mp3"></div>
+				</div>
+				<a class="scroll-top" href="#"></a>
+			</div>
+			<iframe name="_ifrTemp" id="_ifrTemp" width="0" height="0" frameborder="0"></iframe>
+		</div>
+		
+<link rel="stylesheet" href="http://static.mp3.zdn.vn/skins/label/js/windowfiles/dhtmlwindow.css" type="text/css" />
+<script type="text/javascript" language="javascript" src="http://static.mp3.zdn.vn/skins/label/js/zrbt-1.5.4.widget.js"></script>
+<script type="text/javascript" language="javascript" src="http://static.mp3.zdn.vn/skins/label/js/widget.zrtd.2.js"></script>
+<script type="text/javascript" language="javascript" src="http://static.mp3.zdn.vn/skins/label/js/windowfiles/dhtmlwindow.1.js"></script>
+<script language="javascript" type="text/javascript">
+	var zrbt_icon_auto	= "off";
+	var zrbt_icon_tag	= "span";
+	MP3.MP3coin = '20';
+	MP3.MP3price = '2000';
+	MP3.LEvent = false;
+//	MP3.LDate = {'year':2013,'month':05,'day':1};
+</script>
+<!-- Begin Block Script Bottom Player -->
+<script type="text/javascript" language="javascript" src="http://static.mp3.zdn.vn/skins/mp3_version3_05/js/zmp3.player-2.8.min.js"></script>
+<!-- End -->
+
+<!-- Google Analytics - mp3.zing.vn -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-1571128-3']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_setAllowHash', false]);
+_gaq.push(['_trackPageview']);
+_gaq.push(['z._setAccount', 'UA-4695288-1']);
+_gaq.push(['z._setDomainName', '.zing.vn']);
+_gaq.push(['z._setAllowLinker', true]);
+_gaq.push(['z._setAllowHash', false]);
+_gaq.push(['z._trackPageview']);
+_gaq.push(['mp3._setAccount', 'UA-1571128-18']);
+_gaq.push(['mp3._setAllowLinker', true]);
+_gaq.push(['mp3._setAllowHash', false]);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript" language="javascript" src="http://static.me.zing.vn/v3/zds/zt-1.03.min.js"></script>
+		
+	</body>
+</html><!-- Begin Block Script Bottom -->
+<script language="javascript" type="text/javascript">
+	var JS	= {	"PLAYER":		MP3.SKIN_PATH_V3 + "js/zmp3.player-2.4.min.js",
+				"INTERACTION":	MP3.SKIN_PATH_V3 + "js/zmp3.interaction-0.1.js",
+				"LIKE":			MP3.SKIN_PATH_V3 + "js/zmp3.like-0.3.js",
+				"SHARE":		MP3.SKIN_PATH_V3 + "js/zmp3.sharer-1.3.js",
+				"AUTOCOMPLETE":	"skins/mp3_main/js/core/zm.autocomplete-1.42.min.js"};
+</script>
+<script type="text/javascript" language="javascript" src="http://static.mp3.zdn.vn/skins/mp3_main/js/core/zm.ui-1.61.min.js"></script>
+<script type="text/javascript" language="javascript" src="http://static.mp3.zdn.vn/skins/mp3_version3_05/js/zmp3.common-6.4.min.js"></script>
+<script type="text/javascript" language="javascript" src="http://static.mp3.zdn.vn/skins/mp3_version3_05/js/zstore-widget-min-1.0.4.js"></script>
+<script language="javascript">
+	zStoreWidget.loadLibs();
+	zStoreWidget.initBuyButtons(null);
+</script>
+<script language="javascript" type="text/javascript">
+	var zme_avatar_auto		= "off";
+	var zme_avatar_tag		= "span";
+	var zme_avatar_width	= 50;
+	var zme_avatar_heigth	= 50;
+	var zme_avatar_size		= 50;
+
+	zmCore.ready(function(){
+		var	tag	= document.getElementsByTagName(zme_avatar_tag);
+		var	rel = '';
+		var	isWidget = 0;
+		for (var i = 0; i < tag.length; i++) {
+			rel	= tag[i].getAttribute('rel');
+			if (rel && rel.search('ZME') != -1) {
+				isWidget = 1;
+				break;
+			}
+		}
+		if (isWidget) {
+			if (typeof(ZME_widget_mix) == 'function') {
+				ZME_widget_mix();
+			} else {
+				zmCore.addScript('http://widget.me.zing.vn/' + 'js/zingme_widget_ex_1.7.1.js', function () {ZME_widget_mix();});
+			}
+		}
+	});
+</script>
+
+<script language="javascript" type="text/javascript">
+	MP3.BAD_WORDS		= '';
+	MP3.ACCOUNT_ID		= 0;
+	MP3.ACCOUNT_NAME	= '';
+	MP3.DISPLAY_NAME	= '';
+	MP3.ISPREMIUM		= '';
+	MP3.GENRE_ID		= 1;
+	if (!MP3.BANNER_OFF) {
+		MP3.BANNER_OFF		= 0;
+	}
+	//Common.alert(MP3.BANNER_OFF);
+	MP3.LOG_INFO		= 'eyJhY3RpWeB24iOiJsaXN0ZW4iLCJkYXRhIjp7ImFjY0lkIjowLCJhY2NvInagaMEdW50IjoiIiwiaG9zdCI6IjEwLjMwLjEyLjE1MCIsInJlWeBmRlmUsICl90aW1lIjowLjA0NjYzNDE5NzIzNTEwNywimUsICGFyYW0iOnsiWeBGlzdGVdUngX3R5mUsICGUiOiJzWeB25nIiwiaWQiOjEwNzQ1NDYwNzYsInRpdGxlIjoiQ2hmUsICdTFlZGQgTmdmUsICdTAwZTB5IE1mUsICdTAxYjBhIFRhWeBiIsImFydGlzdF9pZCI6Ijk2Niw5MDA1IiwiZ2VdUngmUsICmVfaWQiOiIxIiwia2V5IjoiMmRjMjA3ODAwZGI0NzmUsIC0NWM2NmVhN2RlMWMwOWQwZGUifX19';
+	// load script log
+	if (MP3.LOG_INFO) {
+		zmCore.addScript('http://static.mp3.zdn.vn/skins/mp3_version3_05/' + 'js/zmp3.log-0.4.min.js');
+	}
+
+	// load menu user
+	var loginHtml = '';
+	if (MP3.ACCOUNT_NAME && !zm('#_loginAlr').html()) {
+		zm('#_mainMenuMyLink').html('Nhạc của ');
+		zm('#_loginAlr').html(loginHtml);
+		zm('#_loginAlr').removeClass('none');
+		zm('#_infoUserCp').mouseenter( function () {
+			zm('#_infoUserCp').addClass('selected');
+			zm('#_subMenuCp').removeClass('none');
+		})
+		zm('#_infoUserCp').mouseleave( function () {
+			zm('#_infoUserCp').removeClass('selected');
+			zm('#_subMenuCp').addClass('none');
+		})
+	} else {
+		zm('#_loginNY').removeClass('none');
+	}
+	if (MP3.ACCOUNT_NAME) {
+		if (zm('#_userProperties').size()) {
+			zm('#_userProperties').html('');
+		}
+	}
+
+	// Kiem tra quang cao
+	Common.detectBannerAds();
+	zmCore.ready(function(){
+		/* Tắt mở quảng cáo */
+		if (MP3.ISPREMIUM || MP3.IS_NOT_PC) {
+			if (MP3.IEVERSION > 6) {
+				var txtOn	= 'Mở quảng cáo';
+				var txtOff	= 'Tắt quảng cáo';
+				var	divOn	= '<a id="_bnToggle" title="' + txtOn + '">' + txtOn + '</a>';
+				var	divOff	= '<a id="_bnToggle" title="' + txtOff + '">' + txtOff + '</a>';
+
+				if (MP3.BANNER_OFF == 1) {
+					zm('#_divToggle').html(divOn);
+				} else {
+					zm('#_divToggle').html(divOff);
+				}
+				zm('#_divToggle').click(function() {
+					if (MP3.BANNER_OFF == 1) {
+						zm.cookie('BANNER_OFF', '', {expires: 0, path: '/'});
+						location.reload();
+					} else {
+						Ads.removeBanner();
+						Common.detectBannerAds();
+						zm('#_divToggle').html(divOn);
+					}
+				});
+			}
+		}
+		// remove cookie nếu không login và truy cập từ PC
+		if (!MP3.ACCOUNT_NAME && !MP3.IS_NOT_PC) {
+			zm.cookie('BANNER_OFF', '', {expires: 100, path: '/'});
+		}
+		/* */
+		/* remove cookie */
+		if (!MP3.ACCOUNT_ID) {
+			zm.cookie('ZMP3V', '', {expires: -1, path: '/', domain: '.mp3.zing.vn'});
+		}
+	});
+</script>
+<!-- Begin Ads zone -->
+<script type="text/javascript" language="javascript" src="http://static.mp3.zdn.vn/skins/mp3_version3_05/js/zmp3.ads-1.5.min.js"></script>
+<div id="_zoneTop" class="none abs">
+<script language="javascript">if (MP3.BANNER_OFF != 1) {Ads.setZoneTop();}</script>
+</div>
+<div id="_zoneHomeCenter" class="none abs">
+<script language="javascript">if (MP3.BANNER_OFF != 1) {Ads.setZoneHomeCenter();}</script>
+</div>
+<div id="_zoneRight1" class="none abs" style="z-index: 30">
+<script language="javascript">if (MP3.BANNER_OFF != 1) {Ads.setZoneRight1();}</script>
+</div>
+<div id="_zoneRight2" class="none abs" style="z-index: 30">
+<script language="javascript">if (MP3.BANNER_OFF != 1) {Ads.setZoneRight2();}</script>
+</div>
+<div id="_zoneRight3" class="none abs" style="z-index: 30">
+<script language="javascript">if (MP3.BANNER_OFF != 1) {Ads.setZoneRight3();}</script>
+</div>
+<div id="_zoneFooterPopup">
+<script language="javascript">if (MP3.BANNER_OFF != 1) {Ads.setZoneFooterPopup();}</script>
+</div>
+<script language="javascript">
+	zmCore.ready(function(){
+		Ads.setZonePosition('_zoneTop');
+		Ads.setZonePosition('_zoneHomeCenter');
+		Ads.setZonePosition('_zoneRight1');
+		Ads.setZonePosition('_zoneRight2');
+		Ads.setZonePosition('_zoneRight3');
+	});
+</script>
+<!-- End Ads zone -->
+<!-- End -->

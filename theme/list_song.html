@@ -11,14 +11,15 @@
 			<!-- #BEGIN list_row -->
 			<tr {song.CLASS} >
 			<td class="col1">
-				<a href="get.php?id={song.ID}&type=play" class="name" title="{song.NAME}">{song.NAME}</a><br>
-				<a title="tìm bài hát của {song.SINGER}" href="search.php?keyword={song.SINGER}&by=artist">{song.SINGER}</a>
+				<a href="{server}/bai-hat/{song.ID}.html" class="name" title="{song.NAME}">{song.NAME}</a><br>
+				<a title="tìm bài hát của {song.SINGER}" href="{server}/tim-kiem.html?keyword={song.SINGER}&by=artist">{song.SINGER}</a>
 			</td>
 			<td>{song.CAT}</td>
 			<td>{song.RATE} kb/s</td>
 			<td>{song.KBS}</td>
-			<td align=left width="2%"><a href="download.php?id={song.ID}"><img style="border:0px solid;" src="theme/img/download.png" /></a>
-						<a style='display:none'href="javascript:void(0);" onclick="addPl('add','{song.ID}','{song.NAME}','{song.SINGER}');"><img style="border:0px solid;" src="theme/img/add.png" /></a></td>
+			<td align=left width="2%">
+				<a href="{server}/download.php?id={song.ID}"><img style="border:0px solid;" src="theme/img/download.png" /></a>
+			</td>
 			</tr>
 			
 				<!-- #END list_row -->
@@ -27,7 +28,7 @@
 			</table>
 </div>
 <!---Phân trang--->
-<div id="nen_trang" style="width:463px; height:35px; padding-bottom:30px;"><br>
+<div id="nen_trang" style="height:35px; padding-bottom:30px;"><br>
 <div style="float:left; width:150px;">
 {ga_pre}
 </div>

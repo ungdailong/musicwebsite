@@ -1,6 +1,20 @@
-
-<article id="content">
-	<div class="col-1">
+<div class="tumbvr">
+	<div class="tumbvr-mask"></div>
+	<ul>
+		<li><a href="{server}/search.php?keyword=minh+hằng&by=artist"><img width="310px"src="images/minh_hang.jpg" alt=""></a></li>
+		<li><a href="{server}/search.php?keyword=miu+lê&by=artist"><img height="500px"src="images/miu_le.jpg" alt=""></a></li>
+		<li><a href="{server}/search.php?keyword=thu+thủy&by=artist"><img  width="382px" src="images/thu_thuy.jpg" alt=""></a></li>
+		<li><a href="{server}/search.php?keyword=vy+oanh&by=artist"><img width="400px"src="images/vy_oanh.jpg" alt=""></a></li>
+		<li><a href="{server}/search.php?keyword=khởi+my&by=artist"><img width="348px"src="images/khoi_my.jpg" alt=""></a></li>
+		<li><a href="{server}/search.php?keyword=ngân+khánh&by=artist"><img width="400px"src="images/ngan_khanh.jpg" alt=""></a></li>
+		<li><a href="{server}/search.php?keyword=đông+nhi&by=artist"><img width="316px"src="images/dong_nhi.jpg" alt=""></a></li>
+		<li><a href="{server}/search.php?keyword=tâm+tít&by=artist"><img width="400px"src="images/tam_tit.jpg" alt=""></a></li>
+		<li><a href="{server}/search.php?keyword=bích+phương&by=artist"><img width="510px"src="images/bich_phuong.jpg" alt=""></a></li>
+		<li><a href="{server}/search.php?keyword=minh+hằng&by=artist"><img width="10px"src="images/minh_hang.jpg" alt=""></a></li>
+	</ul>
+  </div>
+<article id="content" style="padding-top: 341px;">
+	<div class="col-1" style='display:none'>
 		<div class="p2">
 		<h2>Album hot</h2>
 		<div id="topalbum_result"></div>
@@ -9,29 +23,6 @@
 		
 	</div>
 	<div class="col-2">
-		<!-- audio player begin -->
-		<!-- <div id="jplayer"></div>
-		<div class="jp-audio">
-		<h2>New Song</h2>
-		<div class="jp-type-single">
-			<div id="jp_interface_1" class="jp-interface">
-			<ul class="jp-controls">
-				<li><a href="#" class="jp-play"></a></li>
-				<li><a href="#" class="jp-pause"></a></li>
-				<li><a href="#" class="jp-prev">Previous Track</a></li>
-				<li><a href="#" class="jp-next">Next Track</a></li>
-				<li><a href="#" class="jp-more-songs">Listen to More Songs</a></li>
-			</ul>
-			<div class="jp-progress">
-				<div class="jp-seek-bar">
-				<div class="jp-play-bar"></div>
-				</div>
-			</div>
-			<div class="jp-title"></div>
-			</div>
-		</div>
-		</div> -->
-		<!-- audio player end -->
 		<h2 class="pl">Danh sách</h2>	
 		<div id="list_result"></div>		
 	</div>
@@ -41,10 +32,8 @@
 
 		<h2>Find Me</h2>
 		<ul class="soc-ico">
-		<li><a href="#"><img src="images/facebook.png" alt=""></a></li>
-		<li><a href="#"><img src="images/twitter.png" alt=""></a></li>
-		<li><a href="#"><img src="images/myspace.png" alt=""></a></li>
-		<li><a href="#"><img src="images/linkedin.png" alt=""></a></li>
+		<li><a title = "Facebook"href="http://www.facebook.com/dangdavien" target="_blank"><img src="images/facebook.png" alt=""></a></li>
+		<li><a title = "Twitter"href="https://twitter.com/viendang" target="_blank"><img src="images/twitter.png" alt=""></a></li>
 		</ul>
 	</div>
   </article>
@@ -55,40 +44,19 @@
     			<script type="text/javascript">
     			$(function(){
     				$('nav,.more,.header-more').sprites()
-
-    				$('.header-slider').gSlider({
-    					prevBu:'.hs-prev',
-    					nextBu:'.hs-next'
-    				})
+    				
     			})
-    			$(window).load(function(){
-    				$('.tumbvr')._fw({tumbvr:{
-    					duration:2000,
-    					easing:'easeOutQuart'
-    				}})
-    				.bind('click',function(){
-    					location="index-3.html"
-    				})
-
-    				$('a[rel=prettyPhoto]').each(function(){
-    					var th=$(this),
-    					pb
-    					th
-    					.append(pb=$('<span class="playbutt"></span>').css({opacity:.7}))
-    					pb
-    					.bind('mouseenter',function(){
-    						$(this)
-    						.stop()
-    						.animate({opacity:.9})
-    					})
-    					.bind('mouseleave',function(){
-    						$(this)
-    						.stop()
-    						.animate({opacity:.7})
-    					})
-    				})
-    				.prettyPhoto({theme:'dark_square'})
-    			})
+    			
     			</script>
+    			<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40579919-2', 'the-vagabond.net');
+  ga('send', 'pageview');
+
+</script>
     		</body>
     		</html>

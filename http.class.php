@@ -1,4 +1,6 @@
 <?php
+define('URL_SERVER', 'http://the-vagabond.vn/metro/music-zing') ;
+//define('URL_SERVER', 'http://music.the-vagabond.net') ;
 class Http
 {
     var $target;

@@ -3,23 +3,28 @@ include "http.class.php";
 $http = new Http();
 if($_GET['id'])
 {
+	$id = $_GET['id'];
 	$http->clear();
-	$http->setTarget('http://mp3.zing.vn/mp3/nghe-bai-hat/'.$_GET['id'].'.html');
+	$http->setTarget('http://mp3.zing.vn/bai-hat/'.$id.'.html');
 	$http->setReferrer("http://mp3.zing.vn");
 	$http->execute();
 	$html = $http->result;
-	$url = $http->get_string_between($html,1,0,'title="Tải ca khúc về" href="','" target="ifrTemp">');
-	if($_GET['type'] == 'playlist')
-	{
-		header("Location: ".$url."");
-	}
-	else
-	{
-		$name = $http->get_string_between($html,1,0,'Tìm ca khúc có tên liên quan" href="','</a></h1>');
-		$name = explode('">',$name);
-		$singer = $http->get_string_between($html,1,0,'Tìm ca khúc do ',' trình bày');
+	$xml = $http->get_string_between($html,1,0,'xmlURL=','&amp;textad');
+	
+	///lay link .mp3
+	$http->clear();
+	$http->setTarget($xml);
+	$http->setReferrer("http://mp3.zing.vn");
+	$http->execute();
+	$html = $http->result;
+	$url = $http->get_string_between($html,1,0,'<source><![CDATA[',']]></source>');
+	$name = $http->get_string_between($html,1,0,'<title><![CDATA[ ',']]></title>');
+	$singer = $http->get_string_between($html,1,0,'<performer><![CDATA[',']]></performer>');
+	
+	
+		
 		$type = trim(substr($url, -3));
-		$filename = $name[1].'__'.$singer;
+		$filename = $name.'__'.$singer;
 		$filename = str_replace(' ','-',$filename);
 		$filename = $filename.'.'.$type;
 		$filename = $http->mark_to_non($filename);
@@ -37,7 +42,7 @@ if($_GET['id'])
 		header('Expires: 0');
 		set_time_limit(0);
 		readfile($url);
-	}
+	
 	//header("Location: ".$url."");
 }
 ?>

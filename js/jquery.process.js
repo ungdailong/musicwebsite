@@ -13,7 +13,7 @@ $("#bu_form").submit(function() {
 	}
 	showLoader("load");
 	$.ajax({
-		url: 'index.php',
+		url: URL_SERVER + '/index.php',
 		type: 'POST',
 		data: {type:'bu', keyword:keyword, by:by},
 		success: function(data){
@@ -55,7 +55,7 @@ showLoader('list');
 function playAjax(id){
 showLoader('load');
     $.ajax({
-        url: 'get.php',
+        url: URL_SERVER + '/get.php',
         type: 'POST',
         data: "id="+id+"&type=play",
         dataType: "html",
@@ -103,7 +103,7 @@ showLoader('load');
 function addPl(type,id,name,singer){
 showLoader('load');
     $.ajax({
-        url: 'playlist.php',
+        url: URL_SERVER + '/playlist.php',
         type: 'POST',
         data: "type="+type+"&id="+id+"&name="+name+"&singer="+singer,
         dataType: "html",
@@ -135,7 +135,7 @@ showLoader('load');
 function showPl(){
 showLoader('load');
     $.ajax({
-        url: 'playlist.php',
+        url: URL_SERVER + '/playlist.php',
         type: 'POST',
         data: "type=show",
         dataType: "html",
@@ -147,7 +147,7 @@ showLoader('load');
 function playPl(){
 showLoader('load');
     $.ajax({
-        url: 'playlist.php',
+        url: URL_SERVER + '/playlist.php',
         type: 'POST',
         data: "type=play",
         dataType: "html",
@@ -159,7 +159,7 @@ showLoader('load');
 function playAlbum(id){
 showLoader('load');
     $.ajax({
-        url: 'index.php',
+        url: URL_SERVER + '/index.php',
         type: 'POST',
         data: "type=playalbum&id="+id,
         dataType: "html",

@@ -13,11 +13,15 @@ input,select,textarea {font-family:Arial, Helvetica, sans-serif;font-size:1em;ve
 textarea {overflow:auto}
 /* GLOBAL */
 html {min-width:1088px}
-body {background:url(../images/body-bg.png) repeat-x #1d1d1d;font-family:Arial, Helvetica, sans-serif;font-size:100%;line-height:1em;color:#000}
+body {background:url(../images/body-bg.png) repeat-x scroll 0 0 / 1px 125px #1d1d1d;font-family:Arial, Helvetica, sans-serif;font-size:100%;line-height:1em;color:#000}
 .innercopy, .innercopy a {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
-#main {width:1088px;margin:0 auto;min-height:100%;margin-bottom:-129px}
+#main {
+/* 	width:1088px; */
+/* 	margin:0 auto; */
+	min-height:100%;
+	margin-bottom:-129px}
 .af {height:129px}
-header {position:relative;height:324px;}
+header {position:relative;height:70px;}
 /* ELEMENTS */
 a {color:#74be00;outline:none;text-decoration:none;}
 a:hover {text-decoration:none}
@@ -29,7 +33,12 @@ p,.blo {line-height:20px;margin-bottom:20px}
 header h1 {position:absolute;left:612px;top:130px}
 header h1 a {font:60px/1.2em Arial, Helvetica, sans-serif;color:#414141;text-decoration:none}
 /* header>nav */
-header nav {width:1024px;height:73px;position:absolute;left:32px;background:url(../images/nav-sprite.png)}
+header nav {
+/* 	width:1024px; */
+	height:73px;
+/* position:absolute; */
+/* 	left:32px; */
+	background:url(../images/nav-sprite.png)}
 header nav ul {padding-left:2px}
 header nav li {float:left;padding-top:10px}
 header nav li a {font:28px/50px Arial, Helvetica, sans-serif;color:#000;width:168px;display:block;text-align:center;
@@ -38,14 +47,16 @@ header nav li a {font:28px/50px Arial, Helvetica, sans-serif;color:#000;width:16
 header nav li a:hover,header nav li.active a {color:#037f00}
 /* header>* */
 /* #content */
-#page1 #content {background:none;padding-top:380px}
+#page1 #content {background:none;
+/* padding-top:380px */
+}
 #page4 .img-box {margin-right:44px;margin-bottom:20px}
 #page4 .img-box img {margin-bottom:6px}
 #page4 .img-box.lst {margin-right:0}
 #content {min-height:400px;background:url(../images/content-bg.png) no-repeat 0 0;padding:43px 0 60px 0;overflow:hidden;font-size:12px;line-height:20px;color:#fff;position:relative}
 .contacts span {width:70px;display:inline-block}
 h2 {font:30px/1.2em Arial, Helvetica, sans-serif;color:#fff;margin-bottom:16px}
-table.dates {width:586px;font:12px/20px Arial, Helvetica, sans-serif;color:#fff}
+table.dates {width:719px;font:12px/20px Arial, Helvetica, sans-serif;color:#fff}
 .table-border {border-radius:8px;overflow:hidden;border:none;position:relative;z-index:1}
 table.dates .thead td {color:#898989;padding:0 20px}
 table.dates .thead td.col1 {padding-left:40px}
@@ -97,7 +108,7 @@ ul.audio .play {width:40px;height:26px;float:left;background:url(../images/audio
 .hs-next {position:absolute;left:1010px;top:230px}
 .header-slider li {float:left;display:block;width:360px}
 #jplayer {height:0;overflow:hidden}
-.jp-audio {width:586px;height:178px;background:url(../images/jplayer-bg.png) no-repeat;position:relative;margin-bottom:28px}
+.jp-audio {margin-left:61px;width:586px;height:178px;background:url(../images/jplayer-bg.png) no-repeat;position:relative;margin-bottom:28px}
 .jp-audio h2 {position:absolute;left:44px;top:12px;font-size: 22px;}
 .jp-audio .jp-title {position:absolute;left:116px;top:77px;font:24px/1.2em Arial, Helvetica, sans-serif;color:#fff}
 .jp-audio a {text-decoration:none;color:#fff}

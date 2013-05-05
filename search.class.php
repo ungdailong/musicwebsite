@@ -51,7 +51,7 @@ class Find
 			}
 			else
 			{
-				$this->http->setTarget('http://mp3.zing.vn/mp3/search/do.'.$this->page.'.html?t='.$this->theo.'&q='.$this->keyword.'&row='.$this->row);
+				$this->http->setTarget('http://mp3.zing.vn/tim-kiem/bai-hat.html?t='.$this->theo.'&q='.$this->keyword.'&p='.$this->page);
 			}
 		}
 		$this->http->setReferrer("http://mp3.zing.vn");
@@ -67,30 +67,26 @@ class Find
 			exit();
 		}
 		$this->result = ceil(intval(trim($this->total))/20);
-		//echo $this->total . '-' . $this->result;
-		//die();
+		//first item
+		$first_song = $this->http->get_string_between($this->html,1,0,'<div class="first-search-song">','<div class="singer-item singer-album">');
+		//
+		
+		//
 		$this->item   = explode('<div class="content-item ie-fix">',$this->html);
-		//echo count($this->item);
+		$temp = array_shift($this -> item);
+		array_unshift($this -> item, '1',$first_song);
 		$this->arr[]  = array();
 		for($i=1; $i<=count($this->item); $i++)
 		{
-			
 			$this->id		= $this->http->get_string_between($this->item[$i],1,0,'href="/bai-hat/','.html');
 			$this->name 	= $this->http->get_string_between($this->item[$i],1,0,'">','</a>');
 			$this->singer	= $this->http->get_string_between($this->item[$i],1,0,'Tìm bài hát của ','"');
 			$this->cat_name		= $this->http->get_string_between($this->item[$i],1,0,'Xem bài hát ','"');
 			$this->cat_id		= $this->http->get_string_between($this->item[$i],1,0,'/the-loai-bai-hat/','.html');
-			//$this->info      = $this->http->get_string_between($this->item[$i],1,0,'</a></span> | Thời gian: ',' kb/s');
 			$this->info      = $this->http->get_string_between($this->item[$i],1,0,'Lượt nghe: ','</p>');
 			$this->rate = $this->http->get_string_between($this->item[$i],0,2,'kb/s</p>','</a> | ');
-			//$this->cat      = explode('">',$this->cat);
-		 	
-			//if($this->cat[0] == 0) $this->cat[0] = '1';
-			//$this->cat_id	= $this->cat[0];
-			//$this->cat_name	= $this->cat[1];
-			
-			//if(strpos($this->name,'\'')) $this->name = str_replace('\'','',$this->name);
-			//if(strpos($this->singer,'\'')) $this->singer = str_replace('\'','',$this->singer);
+			if($this-> rate == '' || $this-> rate == null || $this-> rate == ' ')
+				$this-> rate = '128';
 			$this->arr[$i]	= 	array(	"name"		=>	$this->name,
 										"id"		=> 	$this->id,
 										"kat" 		=> 	$this->cat_id,

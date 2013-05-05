@@ -89,44 +89,15 @@ div.jp-type-playlist div.jp-playlist a.jp-playlist-current {
 </div>
 
 
-    			<script language="javascript" type="text/javascript" src="js/jquery.process.js"></script>
+    			<script type="text/javascript" src="js/jquery.process.js"></script>
+    			<script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
     			<script type="text/javascript">
     			$(function(){
     				$('nav,.more,.header-more').sprites()
 
-    				$('.header-slider').gSlider({
-    					prevBu:'.hs-prev',
-    					nextBu:'.hs-next'
-    				})
+    				
     			})
-    			$(window).load(function(){
-    				$('.tumbvr')._fw({tumbvr:{
-    					duration:2000,
-    					easing:'easeOutQuart'
-    				}})
-    				.bind('click',function(){
-    					location="index-3.html"
-    				})
-
-    				$('a[rel=prettyPhoto]').each(function(){
-    					var th=$(this),
-    					pb
-    					th
-    					.append(pb=$('<span class="playbutt"></span>').css({opacity:.7}))
-    					pb
-    					.bind('mouseenter',function(){
-    						$(this)
-    						.stop()
-    						.animate({opacity:.9})
-    					})
-    					.bind('mouseleave',function(){
-    						$(this)
-    						.stop()
-    						.animate({opacity:.7})
-    					})
-    				})
-    				.prettyPhoto({theme:'dark_square'})
-    			})
+    			
     			</script>
     			<script type="text/javascript">
 
